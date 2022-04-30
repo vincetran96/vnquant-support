@@ -1,0 +1,1420 @@
+{
+    "data": [
+        {
+            "industryCode": "0001",
+            "industryLevel": "1",
+            "englishName": "OIL & GAS ",
+            "vietnameseName": "Dầu Khí",
+            "totalCount": 27.0,
+            "codeList": "POV,HMR,PLE,PTV,TLP,POB,POS,TDG,PLX,PVO,BSR,PND,PSN,PCN,BCA,PSH,OIL,PEQ,PTX,PVY,MTS,PPY,PVB,PCG,PVS,PVC,PVD"
+        },
+        {
+            "industryCode": "1000",
+            "industryLevel": "1",
+            "englishName": "BASIC MATERIALS ",
+            "vietnameseName": "Vật liệu cơ bản",
+            "totalCount": 176.0,
+            "codeList": "THT,HSV,CST,DPD,BKG,APH,KLM,MEL,BRR,MVB,MGC,MTM,TVN,TEG,PSW,DDV,DPS,DCM,SBR,PAS,HUX,DRG,TDP,GVR,CHC,DCI,TQN,VIM,DGL,VPS,ACM,PGN,LNC,BCB,CKA,YBM,HHP,FRM,CET,TNI,SIV,DRI,TTS,VBG,GVT,TMB,VIF,PIS,PSE,GLC,FRC,NHH,DHB,HII,AFC,TMG,ATG,ADS,TND,KCB,BFC,PCE,CKD,KVC,HPH,CBI,LMC,PLP,LTG,NSH,VPR,SVG,MSR,STK,CSV,VDB,VPG,MC3,VCE,TNS,HNP,KHD,RTB,BT1,VGL,KSV,MTA,PMB,VAF,QBS,MMC,BRC,LAS,NFC,KSQ,FCM,DHM,LCM,ITQ,SFG,PTK,XPH,BAM,DGC,DTN,CNC,TDS,CZC,AMC,SPC,HPP,DAP,VCA,TIS,NKG,TVD,BGM,KSB,CPC,KSS,HGM,VFG,PLC,HRC,HPG,HMC,KMT,MDC,DHC,HVT,TCS,TDN,HLA,DPR,CAP,VNP,TRC,TNC,BMC,MIC,DPM,HSI,TKU,NBC,VID,MCV,VIS,HAI,SMC,HAP,DTT,TNB,APP,KTB,MIM,KSA,MIH,DNS,BMJ,SQC,HSG,VGS,KKC,TC6,KSC,CMI,KHB,DTL,DNY,POM,TLH,APC,PHR,HLC,KSH,BKC"
+        },
+        {
+            "industryCode": "2000",
+            "industryLevel": "1",
+            "englishName": "INDUSTRIALS ",
+            "vietnameseName": "Công nghiệp",
+            "totalCount": 712.0,
+            "codeList": "VIN,GEE,SCG,TKG,CFM,DVG,MTB,CGL,GMA,GIC,MHP,CQN,MDT,PNP,PHN,SZC,VTP,VSE,ILC,TS5,TS3,CIA,TA6,PCC,SCY,TBN,MND,CC1,DSG,LMI,HEJ,CCT,GKM,CGV,MPY,PYU,HCS,TVA,SSU,PC1,NNB,GTS,L63,TTV,APL,NBR,CNN,DBH,MTL,BTU,VTM,XMD,SGN,MCI,PSG,ISG,UEM,RCD,TTB,NCT,ASG,TR1,DKC,VXT,CPW,DTB,USD,PBT,HTN,MBN,NAU,VGR,LG9,MIE,DTD,HLS,VVN,PCM,CPI,LIC,C36,THI,DAR,X77,AMS,USC,PXC,MVY,NAS,MCT,L12,TB8,HEM,MES,QBR,TVU,HRT,HMG,SAC,RTS,L45,QSP,CDH,KPF,VPA,HPM,TVM,VEE,DLT,CMK,VMS,TOP,TA9,C71,SHG,SAS,NMK,TKA,BBH,PLO,HSP,UDL,DUS,DDG,MVN,XLV,S72,ILS,UMC,HAM,LLM,CC4,HTE,ACS,SCS,HC3,CVH,BMD,EVG,MLC,PVH,CEG,QLT,HFB,MVC,NAC,HGW,X18,DCF,CKH,PKR,VWS,DPG,HSA,NTR,ACV,YRC,ROS,DT4,ICC,SGP,KIP,I10,NWT,SLC,VSA,TPS,VT8,NNG,TL4,TVH,SHE,DX2,MQN,AAV,TGG,PRT,BUD,SJG,KTU,EMS,MQB,FBC,CAG,ATB,MTV,VGV,EME,TOT,VLP,VSM,VHD,CH5,SBV,DSS,TEC,THR,TRT,CDG,HTR,GND,RTH,TUG,UPC,DFC,CCV,HEC,RCC,DSV,CVC,HLR,UCT,LQN,DC1,DNR,CLH,BMN,CDN,IFC,CLM,HHV,MBG,NAP,BCG,PDB,PTE,ICN,CTT,CDO,NHP,GMH,NXT,TOS,XMP,HTH,PAP,TV6,LPT,MA1,DXD,VW3,DKH,CAM,GAB,CMD,IBD,BLU,HUB,BDC,FIC,HEP,TTL,TCK,SAL,CIP,CCH,SVL,MLN,CDR,THU,HMS,TCD,CEE,EMG,FSO,BRS,HNT,DND,CQT,BTR,RAT,HCD,MST,HKP,KDM,ITS,GEX,DOP,CCR,PMP,VGC,PHP,BHC,HAH,SIG,MHY,BOT,C4G,DCR,HTK,MDA,SON,QLD,SUM,TA3,BTN,VIW,TLD,BDT,DS3,TCW,KGU,BHV,PDV,TSG,VIH,DNE,C69,CE1,CCP,RHN,BTD,QNU,NUE,HHR,SPA,IST,C12,TNP,G36,PVM,PVP,HHN,RLC,HTU,SZE,SRT,VLB,HID,DDH,NSG,CMP,HU4,DAT,SDX,TRS,VLG,CNH,PBP,CLL,TTZ,VE8,KHL,VMI,GGG,SKG,KSK,MTH,STV,VE4,SVI,PEN,SDB,VHH,YBC,CEC,DHL,CTX,FCN,HFX,SPI,PID,DNL,CTV,ASD,QCC,VTX,VCX,NDX,HLD,DHP,EMC,CAV,SFT,VRG,TBD,S96,SCI,SGS,PPE,L14,GMX,CI5,TNY,NOS,TSB,D26,HTL,SDK,DTV,BXD,PDN,DVH,H11,KCE,C47,VDT,L40,PPS,HU3,PTD,BHT,SWC,SSG,HDA,VSI,PTB,GHC,PXA,MDG,SVN,THG,INC,CTD,LHC,MAC,V12,SHN,TKC,DVP,GLT,BXH,CT3,TNM,VKP,GTH,VNA,BTC,B82,SRB,DXV,DQC,VC6,VE9,HTV,VIT,HT1,PHC,CVT,VC9,ACE,TCO,VNL,HOM,S74,DZM,VC1,ICG,SKS,VST,VHL,QTC,PTM,PVA,SD8,L61,LCG,TBX,DC4,TPP,SPP,VSG,CCM,VCG,VE1,TV4,DDM,CIC,CDC,C92,BT6,ALP,VSC,PVE,QNC,DIC,CMC,L62,HUT,VC5,S12,VTO,VPK,VNE,VFR,VCS,TPC,TJC,TCR,SJC,SFN,SFI,SD2,SCJ,SC5,PVT,PTS,PSC,PJC,LGC,SJM,LUT,BTH,HCT,SDD,VC7,L10,XMC,VC3,SDJ,HCC,UIC,DPC,SNG,BCC,BTS,NAV,NHC,BMP,SD6,PJT,SDA,VNC,TMS,VSP,CJC,PMS,CID,SDY,VTS,CYC,HAS,GMD,VFC,CTB,MEC,TTP,PTC,HPS,PPG,S91,BBS,HBD,SDT,DXP,MCP,SD9,SJE,VMC,CTN,HBC,TTC,DAC,HLY,LBM,DNP,SHC,TLT,VTV,VTA,SDN,VGP,STP,BPC,SIC,VC2,MCO,S99,SD3,SCC,DHA,NTP,RAL,VIP,SD5,SD7,TXM,DCT,SDC,S55,PAC,MHC,CMS,VNF,PRC,HTI,PX1,MCL,VKC,LCD,LM8,KTT,LM7,ARM,STU,HTB,SMA,TVG,HPL,ADP,REM,VQC,DGT,PTH,C32,PSB,VT1,PEC,CTA,PTT,HVX,TV1,JSC,PTL,SCO,HCI,ALV,MAX,SEL,S27,SCL,PVV,VOS,PCT,CVN,BVG,LCC,VE2,NHA,VCH,ND2,AAA,WTC,VE3,MAS,TBT,L44,SDH,UDJ,DNC,HMH,TCL,LO5,SD4,L18,V15,DID,IME,LM3,PVX,SDP,HHG,KBT,SD1,VCT,GER,BCE,HU1,UDC,ICI,DC2,TSM,LCS,NNC,V21,QHD,LIG,MCC,HPB,TDC,CT6,VCM,CX8,PXT,SBC,PXS,AME,PXM,PXI,VXB,NSN,IJC,VES,DAG,STS,PHH,VBC,CTI,SDE,L35,BTG,DL1,MCG,TMX,STG,VPC,PSP,HDO,PGT,ACC,SDG,TV3,TV2,SRF,RDP,CTM,VNT,VCC,V11,SSM,CNT,L43"
+        },
+        {
+            "industryCode": "3000",
+            "industryLevel": "1",
+            "englishName": "CONSUMER GOODS ",
+            "vietnameseName": "Hàng tiêu dùng",
+            "totalCount": 305.0,
+            "codeList": "BLF,AAT,IDP,MCM,NJC,HNE,QNT,GQN,MML,PQN,ATD,CFV,AQN,BMG,DCG,HVH,BBT,SKH,BBM,HNI,SKV,TVT,APF,QHW,QNS,HRG,HAN,VGG,RBC,SGO,HNG,HHA,G20,KTL,PAN,GTN,THD,CKG,TLI,MSH,A32,XDH,SKN,EPC,HUG,MGG,KGM,PPH,KSE,CMN,BMV,HBH,AC4,HLB,FTM,SEP,SBL,BTB,MCH,VGT,HKT,CMF,SHX,FCC,MPT,NKD,HNF,VLC,HJC,HVA,HKB,SCA,TDF,BCF,NNQ,CT5,CPA,LGM,CBC,THP,DFS,BKH,BHG,C22,HPU,ILA,BLT,CBS,BSL,PCF,MSC,VOC,NAF,GTC,VTJ,TAR,NSS,DM7,X26,TDT,BSH,VEA,HSL,HSM,BHK,X20,BAL,CAT,M10,HAV,TCJ,SJF,HTG,BSD,BSQ,BDF,PNG,BDG,AGX,CNA,BAF,DMN,SSH,ACG,DFF,LYF,SCV,VTQ,SVD,MXC,HKC,HGA,HC1,GTK,HCB,MDN,VSF,IRC,AG1,NTT,KHS,NHT,KDF,FT1,JOS,VEC,NHV,ANT,VSN,SPB,VHI,CCA,HLT,BM9,TAN,APT,FGL,HNR,VDM,MNB,BQB,HFS,TTJ,FCS,SPV,MLS,SEA,SB1,GTD,GGS,AFX,XHC,BHN,BSP,CTP,VMA,NDF,SPH,ASA,PRO,GHA,YSC,HHS,TFC,SLS,SNC,SSN,SHA,BHP,AGM,CLP,DAS,NSP,BVN,GFC,S33,FBA,MDF,MCF,VCF,KTS,VTI,IDI,FDG,TH1,MSN,LIX,MHL,HVG,HHC,DBC,TTF,GTA,GMC,GDT,SRC,HLG,ATA,CFC,THB,BAS,ACL,DCS,LSS,NDT,VBH,TSC,TNG,TCM,NST,NPS,SAB,NGC,SBT,PIT,FBT,VHC,ANV,KDC,VDL,TS4,CAN,NSC,VTL,ICF,IFS,SAF,SGC,GIL,VTB,VNM,LAF,SSC,SCD,CLC,TAC,DRC,SAV,SJ1,AGF,BHS,FMC,HNM,MPC,ABT,BBC,EVE,THV,AVF,CMX,HVC,TTG,HAT,VKD,SPD,SHV,PSL,DNF,SMB,NET,VHF,SSF,VIA,TMT,AGD,PTG,SEC,AAM,CSM,CAD,WSB,VDN,NHS,DBF,KSD,DLG,TET,VNH,TLG,TMW,HDM,SHI,HAD,NAG,KMR"
+        },
+        {
+            "industryCode": "4000",
+            "industryLevel": "1",
+            "englishName": "HEALTH CARE ",
+            "vietnameseName": "Y tế",
+            "totalCount": 64.0,
+            "codeList": "PMC,DTH,MED,SOV,NTF,DKP,MRF,BCP,DP3,VET,DPH,AGP,DVD,DTP,ABS,VNY,DBD,AMP,TW3,CDP,PME,TVP,DHD,DTG,TTD,DAN,VTZ,TNH,PBC,BIO,DP1,YTC,NDP,VXP,DHN,VDP,DP2,DVN,HDP,UPH,DOC,CGP,MEF,JVC,DNM,AMV,DBT,PPP,DDN,TRA,DHT,MKV,OPC,DHG,IMP,DMC,MTP,LDP,DBM,DCL,DPP,SPM,MKP,NDC"
+        },
+        {
+            "industryCode": "5000",
+            "industryLevel": "1",
+            "englishName": "CONSUMER SERVICES ",
+            "vietnameseName": "Dịch vụ tiêu dùng",
+            "totalCount": 139.0,
+            "codeList": "VNS,ODE,IBN,BCV,STH,VTR,LMH,AST,HAF,TTH,VEF,DGW,FID,HGT,BNA,ADG,MEG,YEG,CEN,CPH,HVN,DAH,FRT,PNJ,CAB,IPH,DNB,VHE,TSD,HAB,LBC,GCB,SMN,FHS,CRC,KTC,HTM,IDN,T12,RGC,HES,BSG,AUM,BLN,VTG,HNB,VTD,BMF,EPH,TSJ,ATS,CXH,NCS,DCD,BXT,FOC,DSP,IKH,FHN,NBE,CTF,TTT,CLX,BTV,VJC,VNB,NPH,MTC,MWG,SVT,KLF,FDT,AMD,DLD,STT,SDV,DLC,BSC,VLF,HOT,ADC,HST,VNG,TIE,BED,EFI,SED,DNT,EID,ECI,QST,HEV,LBE,HBE,DST,TNA,TMC,SVC,SGD,RIC,PET,HAX,HTP,SFC,ALT,DAE,DHI,COM,TCT,EBS,SGH,STC,TPH,SAP,PNC,MNC,DSN,VMD,WCS,CMV,GTT,IHK,KBE,PTP,BST,CTC,MJC,IN4,VIR,DXL,HTC,VNX,CCI,BTT,BDB,INN,TTR,PDC,DAD"
+        },
+        {
+            "industryCode": "6000",
+            "industryLevel": "1",
+            "englishName": "TELECOMMUNICATIONS ",
+            "vietnameseName": "Viễn thông",
+            "totalCount": 10.0,
+            "codeList": "NIS,TTN,VGI,CTR,TEL,FOX,MFS,PTO,ABC,VTC"
+        },
+        {
+            "industryCode": "7000",
+            "industryLevel": "1",
+            "englishName": "UTILITIES ",
+            "vietnameseName": "Dịch vụ công cộng",
+            "totalCount": 143.0,
+            "codeList": "PVG,GE2,DTE,BNW,PDT,BLW,TVW,PBK,PWS,NVP,BDW,GSM,TTA,REE,HAW,NDW,TOW,DWS,PEG,HWS,NQN,BWS,BGW,HDW,THN,HNA,TNW,NLS,NBT,THW,NQB,EBA,E12,NSL,PMW,SBH,PGV,NED,DNH,CMW,GEG,CHS,VCP,TAP,DNW,ABR,LDW,PMG,VPW,VAV,DNN,TDB,QTP,EIC,DBW,DTK,SP2,EAD,CTW,TDM,LAW,DWC,SGI,BSA,STW,POW,LWS,BPW,DNA,SBM,NAW,BHA,HPW,HND,TAW,ISH,HPD,NTH,TQW,TTE,HBW,DVW,GLW,AVC,SVH,WTN,HLE,BWE,VLW,KHW,NS3,QNW,SCH,NQT,HTW,LCW,NS2,VCW,S4A,NCP,VPD,PIC,DRL,GSP,NTW,LKW,PJS,CNG,QPH,DVC,THS,NNT,CLW,PGD,BTP,ASP,VMG,NBP,PGS,TMP,MTG,SEB,PGC,GAS,TBC,PPC,DTC,HJS,RHC,SJD,VSH,KHP,NLC,TDW,HFC,BTW,NBW,SHP,CHP,SBA,BWA,GDW,NT2"
+        },
+        {
+            "industryCode": "8000",
+            "industryLevel": "1",
+            "englishName": "FINANCIALS ",
+            "vietnameseName": "Tài chính",
+            "totalCount": 234.0,
+            "codeList": "HCM,VUA,BIG,MGR,PRE,E29,TN1,EVF,FTI,KOS,VRE,IPA,TIP,TCH,AAS,HGR,TID,BCM,HPI,ART,EIN,HD2,LDG,FUEVFVND,FUESSVFL,HGC,AGG,FUESSV50,SZB,HD3,PWA,ILB,HPX,NRC,VPI,SNZ,CER,HTT,BAX,SID,PNT,NVL,HU6,TVS,CSI,HD8,CRE,HIZ,HFT,PLA,HRB,LEC,BDP,IBC,HBI,E1SSHN30,E1VFVN30,LAI,SDF,TIN,SZG,FUCTVGF3,KSF,FUEIP100,GH3,TBH,KHG,DXS,BVL,AIC,HD6,FUEVN100,SIP,FIR,EVS,FUCTVGF2,DCH,IDC,DTI,FUCTVGF1,FUCVREIT,HAC,SGR,VHM,MH3,NTC,TVC,BII,SII,FTS,TCI,LPB,BVB,VCI,MBS,BMS,MSB,VPB,TPB,NHN,MBB,FLC,BLI,FIT,NLG,CEO,HAR,MIG,VNN,DSC,TVB,VFS,CCL,DIH,CIG,BSI,NDN,PTI,IVS,D11,SDI,HPR,PGI,C21,FDC,ASM,DXG,VIX,AGR,VIG,TIX,BID,SGB,VCB,CSC,HDC,API,ITC,SDU,LGL,VPH,VNI,D2D,DIG,CTS,VDS,TAS,APS,CLS,BCI,NBB,HAG,PVF,SZL,KLS,VIC,RCL,PVI,VAB,VIB,OCB,HDB,NVB,NAB,KLB,TCB,BAB,ABB,SSB,VBB,EIB,PGB,SHB,CTG,NTL,KBC,KHA,BIC,ACB,BVS,STB,CII,UNI,SJS,VNR,TDH,SSI,ITA,BMI,PV2,PXL,PFL,SCR,KAC,HQC,TIG,GBS,OCH,IDJ,PIV,QCG,VRC,DRH,PSI,APG,WSS,ABI,BVH,SHS,STL,CLG,PDR,PFV,HBS,DTA,ORS,SBS,PVR,OGC,VCR,NTB,DLR,IDV,AVS,PHS,TNT,NVT,PVL,PPI,NVN,LHG,VND,KDH,HDG"
+        },
+        {
+            "industryCode": "9000",
+            "industryLevel": "1",
+            "englishName": "TECHNOLOGY ",
+            "vietnameseName": "Công nghệ",
+            "totalCount": 39.0,
+            "codeList": "ONE,BEL,VTK,VTE,ONW,PAI,ICT,PIA,PMJ,SBD,VTH,PSD,VIE,VAT,KST,TAG,VHG,SGT,TGP,HIG,SRA,TST,ST8,TLC,POT,FPT,TYA,LTC,SAM,ELC,VLA,PMT,HPT,SMT,CKV,CMT,NHW,ITD,CMG"
+        },
+        {
+            "industryCode": "0500",
+            "industryLevel": "2",
+            "higherLevelCode": "0001",
+            "englishName": "Oil & Gas",
+            "vietnameseName": "Dầu khí",
+            "totalCount": 27.0,
+            "codeList": "POV,HMR,PLE,PTV,TLP,POB,POS,TDG,PLX,PVO,BSR,PND,PSN,PCN,BCA,PSH,OIL,PEQ,PTX,PVY,MTS,PPY,PVB,PCG,PVS,PVC,PVD"
+        },
+        {
+            "industryCode": "1300",
+            "industryLevel": "2",
+            "higherLevelCode": "1000",
+            "englishName": "Chemicals",
+            "vietnameseName": "Hóa chất",
+            "totalCount": 59.0,
+            "codeList": "PHR,DPD,APH,BRR,PSW,DDV,DCM,SBR,TDP,GVR,DCI,DGL,VPS,PGN,YBM,CET,SIV,DRI,PSE,NHH,DHB,ADS,BFC,PCE,HPH,LTG,SVG,STK,CSV,HNP,RTB,BT1,PMB,VAF,QBS,BRC,LAS,NFC,SFG,XPH,DGC,CNC,SPC,HPP,CPC,VFG,PLC,HRC,HVT,DPR,VNP,TRC,TNC,DPM,HSI,HAI,DTT,APP,APC"
+        },
+        {
+            "industryCode": "1700",
+            "industryLevel": "2",
+            "higherLevelCode": "1000",
+            "englishName": "Basic Resources",
+            "vietnameseName": "Tài nguyên",
+            "totalCount": 117.0,
+            "codeList": "THT,HSV,CST,BKG,KLM,MEL,MVB,MGC,MTM,TVN,TEG,DPS,PAS,HUX,DRG,CHC,TQN,VIM,ACM,LNC,BCB,CKA,HHP,FRM,TNI,TTS,VBG,GVT,TMB,VIF,PIS,GLC,FRC,HII,AFC,TMG,ATG,TND,KCB,CKD,KVC,CBI,LMC,PLP,NSH,VPR,MSR,VDB,VPG,MC3,VCE,TNS,KHD,VGL,KSV,MTA,MMC,KSQ,FCM,DHM,LCM,ITQ,PTK,BAM,DTN,TDS,CZC,AMC,DAP,VCA,TIS,NKG,TVD,BGM,KSB,KSS,HGM,HPG,HMC,KMT,MDC,DHC,TCS,TDN,HLA,CAP,BMC,MIC,TKU,NBC,VID,MCV,VIS,SMC,HAP,TNB,KTB,MIM,KSA,MIH,DNS,BMJ,SQC,HSG,VGS,KKC,TC6,KSC,CMI,KHB,DTL,DNY,POM,TLH,HLC,KSH,BKC"
+        },
+        {
+            "industryCode": "2300",
+            "industryLevel": "2",
+            "higherLevelCode": "2000",
+            "englishName": "Construction & Materials",
+            "vietnameseName": "Xây dựng & Vật liệu",
+            "totalCount": 398.0,
+            "codeList": "L43,SCG,TKG,DVG,GMA,SZC,TS5,TS3,TA6,PCC,SCY,CC1,DSG,LMI,HEJ,GKM,CGV,TVA,PC1,GTS,L63,APL,BTU,XMD,MCI,PSG,RCD,TTB,CPW,DTB,HTN,LG9,MIE,DTD,VVN,PCM,LIC,C36,X77,AMS,USC,PXC,MCT,L12,TB8,MES,HMG,L45,KPF,HPM,TA9,C71,SHG,NMK,HSP,UDL,XLV,S72,HAM,LLM,CC4,HTE,ACS,HC3,EVG,PVH,CEG,HFB,MVC,NAC,HGW,X18,DCF,VWS,DPG,ROS,DT4,ICC,I10,TL4,TVH,DX2,AAV,TGG,BUD,SJG,FBC,ATB,VGV,EME,VHD,CH5,SBV,TRT,CDG,GND,CCV,HEC,RCC,LQN,DC1,CLH,BMN,MBG,PDB,PTE,ICN,CDO,GMH,NXT,TV6,DXD,VW3,GAB,CMD,HUB,BDC,FIC,TTL,TCK,CIP,CCH,CDR,HMS,TCD,CEE,FSO,DND,CQT,HCD,MST,KDM,VGC,BOT,C4G,DCR,QLD,TA3,BTN,VIW,TLD,BDT,BHV,VIH,C69,BTD,HHR,C12,G36,RLC,VLB,HID,NSG,HU4,SDX,VE8,KHL,VMI,STV,VE4,PEN,SDB,VHH,YBC,CEC,CTX,FCN,HFX,PID,CTV,ASD,QCC,VCX,NDX,HLD,VRG,S96,SCI,L14,GMX,CI5,TNY,D26,SDK,DTV,H11,KCE,C47,VDT,L40,HU3,PTD,BHT,HDA,VSI,PTB,GHC,PXA,MDG,SVN,THG,CTD,LHC,V12,SHN,TKC,CT3,TNM,GTH,B82,DXV,VC6,VE9,VIT,HT1,PHC,CVT,VC9,ACE,HOM,S74,VC1,ICG,SKS,VHL,QTC,PVA,SD8,L61,LCG,TBX,DC4,CCM,VCG,VE1,TV4,CIC,CDC,C92,BT6,QNC,DIC,CMC,L62,HUT,VC5,S12,VNE,VCS,TCR,SJC,SD2,SCJ,SC5,LGC,SJM,LUT,SDD,VC7,L10,XMC,VC3,SDJ,HCC,UIC,DPC,SNG,BCC,BTS,NAV,NHC,BMP,SD6,CID,SDY,VTS,CYC,HAS,MEC,PTC,HPS,PPG,S91,SDT,SD9,SJE,VMC,CTN,HBC,TTC,DAC,HLY,LBM,DNP,TLT,VTV,VTA,SDN,SIC,VC2,MCO,S99,SD3,SCC,DHA,NTP,SD5,SD7,TXM,DCT,SDC,S55,HTI,PX1,MCL,LM7,HTB,TVG,ADP,REM,DGT,C32,PSB,VT1,PEC,CTA,HVX,JSC,PTL,HCI,ALV,SEL,S27,SCL,PVV,CVN,BVG,LCC,VE2,NHA,VCH,ND2,VE3,TBT,L44,SDH,UDJ,DNC,LO5,SD4,L18,V15,DID,IME,LM3,PVX,SDP,KBT,SD1,VCT,BCE,HU1,UDC,ICI,DC2,TSM,LCS,NNC,V21,QHD,LIG,MCC,TDC,CT6,CX8,PXT,PXS,PXM,PXI,VXB,NSN,IJC,VES,DAG,PHH,CTI,SDE,L35,MCG,TMX,VPC,ACC,TV3,CTM,VCC,V11,SSM,CNT"
+        },
+        {
+            "industryCode": "2700",
+            "industryLevel": "2",
+            "higherLevelCode": "2000",
+            "englishName": "Industrial Goods & Services",
+            "vietnameseName": "Hàng hóa và dịch vụ công nghiệp",
+            "totalCount": 314.0,
+            "codeList": "VIN,GEE,CFM,MTB,CGL,GIC,MHP,CQN,MDT,PNP,PHN,VTP,VSE,ILC,CIA,TBN,MND,CCT,MPY,PYU,HCS,SSU,NNB,TTV,NBR,CNN,DBH,MTL,VTM,SGN,ISG,UEM,NCT,ASG,TR1,DKC,VXT,USD,PBT,MBN,NAU,VGR,HLS,CPI,THI,DAR,MVY,NAS,HEM,QBR,TVU,HRT,SAC,RTS,QSP,CDH,VPA,TVM,VEE,DLT,CMK,VMS,TOP,SAS,TKA,BBH,PLO,DUS,DDG,MVN,ILS,UMC,SCS,CVH,BMD,MLC,QLT,CKH,PKR,HSA,NTR,ACV,YRC,SGP,KIP,NWT,SLC,VSA,TPS,VT8,NNG,SHE,MQN,PRT,KTU,EMS,MQB,CAG,MTV,TOT,VLP,VSM,DSS,TEC,THR,HTR,RTH,TUG,UPC,DFC,DSV,CVC,HLR,UCT,DNR,CDN,IFC,CLM,HHV,NAP,BCG,CTT,NHP,TOS,XMP,HTH,PAP,LPT,MA1,DKH,CAM,IBD,BLU,HEP,SAL,SVL,MLN,THU,EMG,BRS,HNT,BTR,RAT,HKP,ITS,GEX,DOP,CCR,PMP,PHP,BHC,HAH,SIG,MHY,HTK,MDA,SON,SUM,DS3,TCW,KGU,PDV,TSG,DNE,CE1,CCP,RHN,QNU,NUE,SPA,IST,TNP,PVM,PVP,HHN,HTU,SZE,SRT,DDH,CMP,DAT,TRS,VLG,CNH,PBP,CLL,TTZ,GGG,SKG,KSK,MTH,SVI,DHL,SPI,DNL,VTX,DHP,EMC,CAV,SFT,TBD,SGS,PPE,NOS,TSB,HTL,BXD,PDN,DVH,PPS,SWC,SSG,INC,MAC,DVP,GLT,BXH,VKP,VNA,BTC,SRB,DQC,HTV,TCO,VNL,DZM,VST,PTM,TPP,SPP,VSG,DDM,ALP,VSC,PVE,VTO,VPK,VFR,TPC,TJC,SFN,SFI,PVT,PTS,PSC,PJC,BTH,HCT,PJT,SDA,VNC,TMS,VSP,CJC,PMS,GMD,VFC,CTB,TTP,BBS,HBD,DXP,MCP,SHC,VGP,STP,BPC,RAL,VIP,PAC,MHC,CMS,VNF,PRC,VKC,LCD,LM8,KTT,ARM,STU,SMA,HPL,VQC,PTH,PTT,TV1,SCO,MAX,VOS,PCT,AAA,WTC,MAS,HMH,TCL,HHG,GER,HPB,VCM,SBC,AME,STS,VBC,BTG,DL1,STG,PSP,HDO,PGT,SDG,TV2,SRF,RDP,VNT"
+        },
+        {
+            "industryCode": "3300",
+            "industryLevel": "2",
+            "higherLevelCode": "3000",
+            "englishName": "Automobiles & Parts",
+            "vietnameseName": "Ôtô & linh kiện phụ tùng ",
+            "totalCount": 10.0,
+            "codeList": "CSM,VEA,IRC,FT1,VMA,HHS,DAS,SRC,DRC,TMT"
+        },
+        {
+            "industryCode": "3500",
+            "industryLevel": "2",
+            "higherLevelCode": "3000",
+            "englishName": "Food & Beverage",
+            "vietnameseName": "Thực phẩm & Đồ uống",
+            "totalCount": 183.0,
+            "codeList": "BLF,IDP,MCM,GQN,MML,CFV,SKH,BBM,SKV,APF,QHW,QNS,SGO,HNG,PAN,GTN,SKN,EPC,KGM,KSE,CMN,BMV,HBH,HLB,SEP,SBL,BTB,MCH,HKT,CMF,FCC,NKD,HNF,VLC,HJC,HVA,HKB,SCA,BCF,NNQ,CPA,CBC,THP,DFS,BKH,BHG,C22,ILA,BLT,CBS,BSL,PCF,MSC,VOC,NAF,GTC,TAR,NSS,BSH,HSL,BHK,BAL,CAT,HAV,TCJ,SJF,BSD,BSQ,PNG,AGX,CNA,BAF,DMN,LYF,SCV,VTQ,MXC,HGA,VSF,KHS,KDF,JOS,NHV,ANT,VSN,VHI,CCA,TAN,APT,FGL,HNR,BQB,TTJ,FCS,SPV,MLS,SEA,SB1,GGS,AFX,BHN,BSP,CTP,NDF,SPH,PRO,TFC,SLS,SNC,SSN,BHP,AGM,CLP,GFC,S33,MCF,VCF,KTS,IDI,FDG,TH1,MSN,HVG,HHC,DBC,ATA,CFC,THB,BAS,ACL,LSS,TSC,SAB,NGC,SBT,PIT,FBT,VHC,ANV,KDC,VDL,TS4,CAN,NSC,VTL,ICF,IFS,SAF,SGC,VNM,LAF,SSC,SCD,TAC,SJ1,AGF,BHS,FMC,HNM,MPC,ABT,BBC,THV,AVF,CMX,HAT,VKD,SPD,SHV,PSL,DNF,SMB,VHF,VIA,AGD,SEC,AAM,CAD,WSB,NHS,DBF,VNH,HAD"
+        },
+        {
+            "industryCode": "3700",
+            "industryLevel": "2",
+            "higherLevelCode": "3000",
+            "englishName": "Personal & Household Goods",
+            "vietnameseName": "Đồ dùng cá nhân và đồ gia dụng",
+            "totalCount": 112.0,
+            "codeList": "KMR,AAT,NJC,HNE,QNT,PQN,ATD,AQN,BMG,DCG,HVH,BBT,HNI,TVT,HRG,HAN,VGG,RBC,HHA,G20,KTL,THD,CKG,TLI,MSH,A32,XDH,HUG,MGG,PPH,AC4,FTM,VGT,SHX,MPT,TDF,CT5,LGM,HPU,VTJ,DM7,X26,TDT,HSM,X20,M10,HTG,BDF,BDG,SSH,ACG,DFF,SVD,HKC,HC1,GTK,HCB,MDN,AG1,NTT,NHT,VEC,SPB,HLT,BM9,VDM,MNB,HFS,GTD,XHC,ASA,GHA,YSC,SHA,NSP,BVN,FBA,MDF,VTI,LIX,MHL,TTF,GTA,GMC,GDT,HLG,DCS,NDT,VBH,TNG,TCM,NST,NPS,GIL,VTB,CLC,SAV,EVE,HVC,TTG,NET,SSF,PTG,VDN,KSD,DLG,TET,TLG,TMW,HDM,SHI,NAG"
+        },
+        {
+            "industryCode": "4500",
+            "industryLevel": "2",
+            "higherLevelCode": "4000",
+            "englishName": "Health Care",
+            "vietnameseName": "Y tế",
+            "totalCount": 64.0,
+            "codeList": "PMC,DTH,MED,SOV,NTF,DKP,MRF,BCP,DP3,VET,DPH,AGP,DVD,DTP,ABS,VNY,DBD,AMP,TW3,CDP,PME,TVP,DHD,DTG,TTD,DAN,VTZ,TNH,PBC,BIO,DP1,YTC,NDP,VXP,DHN,VDP,DP2,DVN,HDP,UPH,DOC,CGP,MEF,JVC,DNM,AMV,DBT,PPP,DDN,TRA,DHT,MKV,OPC,DHG,IMP,DMC,MTP,LDP,DBM,DCL,DPP,SPM,MKP,NDC"
+        },
+        {
+            "industryCode": "5300",
+            "industryLevel": "2",
+            "higherLevelCode": "5000",
+            "englishName": "Retail",
+            "vietnameseName": "Dịch vụ bán lẻ",
+            "totalCount": 60.0,
+            "codeList": "DAD,STH,LMH,AST,HAF,TTH,DGW,FID,BNA,MEG,CEN,CPH,FRT,PNJ,VHE,LBC,GCB,SMN,CRC,KTC,HTM,T12,AUM,BMF,FHN,NBE,CTF,CLX,VNB,MWG,AMD,SDV,BSC,VLF,HST,TIE,BED,EFI,SED,QST,DST,TNA,TMC,SVC,PET,HAX,SFC,COM,EBS,PNC,VMD,CMV,KBE,BST,CTC,MJC,HTC,CCI,BTT,BDB"
+        },
+        {
+            "industryCode": "5500",
+            "industryLevel": "2",
+            "higherLevelCode": "5000",
+            "englishName": "Media",
+            "vietnameseName": "Phương tiện truyền thông",
+            "totalCount": 34.0,
+            "codeList": "INN,ODE,IBN,VEF,ADG,YEG,CAB,IPH,DNB,HAB,FHS,IDN,EPH,FOC,IKH,SVT,ADC,EID,ECI,HEV,LBE,HBE,SGD,HTP,ALT,DAE,DHI,STC,TPH,SAP,IHK,PTP,IN4,VNX"
+        },
+        {
+            "industryCode": "5700",
+            "industryLevel": "2",
+            "higherLevelCode": "5000",
+            "englishName": "Travel & Leisure",
+            "vietnameseName": "Du lịch & Giải trí",
+            "totalCount": 45.0,
+            "codeList": "VNS,BCV,VTR,HGT,HVN,DAH,TSD,RGC,HES,BSG,BLN,VTG,HNB,VTD,TSJ,ATS,CXH,NCS,DCD,BXT,DSP,TTT,BTV,VJC,NPH,MTC,KLF,FDT,DLD,STT,DLC,HOT,VNG,DNT,RIC,TCT,SGH,MNC,DSN,WCS,GTT,VIR,DXL,TTR,PDC"
+        },
+        {
+            "industryCode": "6500",
+            "industryLevel": "2",
+            "higherLevelCode": "6000",
+            "englishName": "Telecommunications",
+            "vietnameseName": "Viễn thông",
+            "totalCount": 10.0,
+            "codeList": "NIS,TTN,VGI,CTR,TEL,FOX,MFS,PTO,ABC,VTC"
+        },
+        {
+            "industryCode": "7500",
+            "industryLevel": "2",
+            "higherLevelCode": "7000",
+            "englishName": "Utilities",
+            "vietnameseName": "Dịch vụ tiện ích",
+            "totalCount": 143.0,
+            "codeList": "PVG,GE2,DTE,BNW,PDT,BLW,TVW,PBK,PWS,NVP,BDW,GSM,TTA,REE,HAW,NDW,TOW,DWS,PEG,HWS,NQN,BWS,BGW,HDW,THN,HNA,TNW,NLS,NBT,THW,NQB,EBA,E12,NSL,PMW,SBH,PGV,NED,DNH,CMW,GEG,CHS,VCP,TAP,DNW,ABR,LDW,PMG,VPW,VAV,DNN,TDB,QTP,EIC,DBW,DTK,SP2,EAD,CTW,TDM,LAW,DWC,SGI,BSA,STW,POW,LWS,BPW,DNA,SBM,NAW,BHA,HPW,HND,TAW,ISH,HPD,NTH,TQW,TTE,HBW,DVW,GLW,AVC,SVH,WTN,HLE,BWE,VLW,KHW,NS3,QNW,SCH,NQT,HTW,LCW,NS2,VCW,S4A,NCP,VPD,PIC,DRL,GSP,NTW,LKW,PJS,CNG,QPH,DVC,THS,NNT,CLW,PGD,BTP,ASP,VMG,NBP,PGS,TMP,MTG,SEB,PGC,GAS,TBC,PPC,DTC,HJS,RHC,SJD,VSH,KHP,NLC,TDW,HFC,BTW,NBW,SHP,CHP,SBA,BWA,GDW,NT2"
+        },
+        {
+            "industryCode": "8300",
+            "industryLevel": "2",
+            "higherLevelCode": "8000",
+            "englishName": "Banks",
+            "vietnameseName": "Ngân hàng",
+            "totalCount": 28.0,
+            "codeList": "STB,TIN,LPB,BVB,MSB,VPB,TPB,MBB,BID,SGB,VCB,VAB,VIB,OCB,HDB,NVB,NAB,KLB,TCB,BAB,ABB,SSB,VBB,EIB,PGB,SHB,CTG,ACB"
+        },
+        {
+            "industryCode": "8500",
+            "industryLevel": "2",
+            "higherLevelCode": "8000",
+            "englishName": "Insurance",
+            "vietnameseName": "Bảo hiểm",
+            "totalCount": 12.0,
+            "codeList": "BVH,PRE,AIC,BLI,MIG,PTI,PGI,PVI,BIC,VNR,BMI,ABI"
+        },
+        {
+            "industryCode": "8600",
+            "industryLevel": "2",
+            "higherLevelCode": "8000",
+            "englishName": "Real Estate",
+            "vietnameseName": "Bất động sản",
+            "totalCount": 133.0,
+            "codeList": "HDG,BIG,MGR,E29,TN1,FTI,KOS,VRE,TIP,TCH,HGR,TID,BCM,HPI,EIN,HD2,LDG,HGC,AGG,SZB,HD3,PWA,ILB,HPX,NRC,VPI,SNZ,CER,HTT,BAX,SID,PNT,NVL,HU6,HD8,CRE,HIZ,PLA,HRB,LEC,BDP,HBI,LAI,SZG,KSF,GH3,TBH,KHG,DXS,BVL,HD6,SIP,FIR,DCH,IDC,DTI,SGR,VHM,MH3,NTC,BII,SII,NHN,FLC,FIT,NLG,CEO,HAR,VNN,CCL,DIH,CIG,NDN,D11,SDI,HPR,C21,FDC,ASM,DXG,TIX,CSC,HDC,ITC,SDU,LGL,VPH,VNI,D2D,DIG,BCI,NBB,HAG,SZL,VIC,RCL,NTL,KBC,KHA,CII,UNI,SJS,TDH,ITA,PXL,PFL,SCR,KAC,HQC,TIG,OCH,IDJ,QCG,VRC,DRH,STL,CLG,PDR,PFV,DTA,PVR,OGC,VCR,NTB,DLR,IDV,TNT,NVT,PVL,PPI,NVN,LHG,KDH"
+        },
+        {
+            "industryCode": "8700",
+            "industryLevel": "2",
+            "higherLevelCode": "8000",
+            "englishName": "Financial Services",
+            "vietnameseName": "Dịch vụ tài chính",
+            "totalCount": 61.0,
+            "codeList": "HCM,VUA,EVF,IPA,AAS,ART,FUEVFVND,FUESSVFL,FUESSV50,TVS,CSI,HFT,IBC,E1SSHN30,E1VFVN30,SDF,FUCTVGF3,FUEIP100,FUEVN100,EVS,FUCTVGF2,FUCTVGF1,FUCVREIT,HAC,TVC,FTS,TCI,VCI,MBS,BMS,DSC,TVB,VFS,BSI,IVS,VIX,AGR,VIG,API,CTS,VDS,TAS,APS,CLS,PVF,KLS,BVS,SSI,PV2,GBS,PIV,PSI,APG,WSS,SHS,HBS,ORS,SBS,AVS,PHS,VND"
+        },
+        {
+            "industryCode": "9500",
+            "industryLevel": "2",
+            "higherLevelCode": "9000",
+            "englishName": "Technology",
+            "vietnameseName": "Công nghệ",
+            "totalCount": 39.0,
+            "codeList": "ONE,BEL,VTK,VTE,ONW,PAI,ICT,PIA,PMJ,SBD,VTH,PSD,VIE,VAT,KST,TAG,VHG,SGT,TGP,HIG,SRA,TST,ST8,TLC,POT,FPT,TYA,LTC,SAM,ELC,VLA,PMT,HPT,SMT,CKV,CMT,NHW,ITD,CMG"
+        },
+        {
+            "industryCode": "0530",
+            "industryLevel": "3",
+            "higherLevelCode": "0500",
+            "englishName": "Oil & Gas Producers",
+            "vietnameseName": "Sản xuất dầu khí",
+            "totalCount": 11.0,
+            "codeList": "PTX,HMR,TLP,POB,TDG,PLX,BSR,PCN,BCA,PSH,OIL"
+        },
+        {
+            "industryCode": "0570",
+            "industryLevel": "3",
+            "higherLevelCode": "0500",
+            "englishName": "Oil Equipment, Services & Distribution",
+            "vietnameseName": "Dụng cụ, dịch vụ & Phân phối Dầu",
+            "totalCount": 16.0,
+            "codeList": "POV,PLE,PTV,POS,PVO,PND,PSN,PEQ,PVY,MTS,PPY,PVB,PCG,PVS,PVC,PVD"
+        },
+        {
+            "industryCode": "1350",
+            "industryLevel": "3",
+            "higherLevelCode": "1300",
+            "englishName": "Chemicals",
+            "vietnameseName": "Hóa chất",
+            "totalCount": 59.0,
+            "codeList": "PHR,DPD,APH,BRR,PSW,DDV,DCM,SBR,TDP,GVR,DCI,DGL,VPS,PGN,YBM,CET,SIV,DRI,PSE,NHH,DHB,ADS,BFC,PCE,HPH,LTG,SVG,STK,CSV,HNP,RTB,BT1,PMB,VAF,QBS,BRC,LAS,NFC,SFG,XPH,DGC,CNC,SPC,HPP,CPC,VFG,PLC,HRC,HVT,DPR,VNP,TRC,TNC,DPM,HSI,HAI,DTT,APP,APC"
+        },
+        {
+            "industryCode": "1730",
+            "industryLevel": "3",
+            "higherLevelCode": "1700",
+            "englishName": "Forestry & Paper",
+            "vietnameseName": "Sản xuất giấy & Trồng rừng",
+            "totalCount": 20.0,
+            "codeList": "HAP,BKG,TEG,DRG,CHC,TQN,LNC,HHP,FRM,GVT,VIF,PIS,FRC,AFC,VPR,DTN,DAP,DHC,CAP,VID"
+        },
+        {
+            "industryCode": "1750",
+            "industryLevel": "3",
+            "higherLevelCode": "1700",
+            "englishName": "Industrial Metals",
+            "vietnameseName": "Kim loại công nghiệp",
+            "totalCount": 39.0,
+            "codeList": "TLH,HSV,MEL,TVN,DPS,PAS,CKA,TNI,TTS,TMG,KCB,CKD,KVC,CBI,NSH,TNS,VGL,MMC,ITQ,BAM,TDS,VCA,TIS,NKG,HPG,HMC,KMT,HLA,TKU,VIS,SMC,TNB,DNS,HSG,VGS,KKC,DTL,DNY,POM"
+        },
+        {
+            "industryCode": "1770",
+            "industryLevel": "3",
+            "higherLevelCode": "1700",
+            "englishName": "Mining",
+            "vietnameseName": "Khai thác mỏ",
+            "totalCount": 58.0,
+            "codeList": "THT,CST,KLM,MVB,MGC,MTM,HUX,VIM,ACM,BCB,VBG,TMB,GLC,HII,ATG,TND,LMC,PLP,MSR,VDB,VPG,MC3,VCE,KHD,KSV,MTA,KSQ,FCM,DHM,LCM,PTK,CZC,AMC,TVD,BGM,KSB,KSS,HGM,MDC,TCS,TDN,BMC,MIC,NBC,MCV,KTB,MIM,KSA,MIH,BMJ,SQC,TC6,KSC,CMI,KHB,HLC,KSH,BKC"
+        },
+        {
+            "industryCode": "2350",
+            "industryLevel": "3",
+            "higherLevelCode": "2300",
+            "englishName": "Construction & Materials",
+            "vietnameseName": "Xây dựng & Vật liệu",
+            "totalCount": 398.0,
+            "codeList": "L43,SCG,TKG,DVG,GMA,SZC,TS5,TS3,TA6,PCC,SCY,CC1,DSG,LMI,HEJ,GKM,CGV,TVA,PC1,GTS,L63,APL,BTU,XMD,MCI,PSG,RCD,TTB,CPW,DTB,HTN,LG9,MIE,DTD,VVN,PCM,LIC,C36,X77,AMS,USC,PXC,MCT,L12,TB8,MES,HMG,L45,KPF,HPM,TA9,C71,SHG,NMK,HSP,UDL,XLV,S72,HAM,LLM,CC4,HTE,ACS,HC3,EVG,PVH,CEG,HFB,MVC,NAC,HGW,X18,DCF,VWS,DPG,ROS,DT4,ICC,I10,TL4,TVH,DX2,AAV,TGG,BUD,SJG,FBC,ATB,VGV,EME,VHD,CH5,SBV,TRT,CDG,GND,CCV,HEC,RCC,LQN,DC1,CLH,BMN,MBG,PDB,PTE,ICN,CDO,GMH,NXT,TV6,DXD,VW3,GAB,CMD,HUB,BDC,FIC,TTL,TCK,CIP,CCH,CDR,HMS,TCD,CEE,FSO,DND,CQT,HCD,MST,KDM,VGC,BOT,C4G,DCR,QLD,TA3,BTN,VIW,TLD,BDT,BHV,VIH,C69,BTD,HHR,C12,G36,RLC,VLB,HID,NSG,HU4,SDX,VE8,KHL,VMI,STV,VE4,PEN,SDB,VHH,YBC,CEC,CTX,FCN,HFX,PID,CTV,ASD,QCC,VCX,NDX,HLD,VRG,S96,SCI,L14,GMX,CI5,TNY,D26,SDK,DTV,H11,KCE,C47,VDT,L40,HU3,PTD,BHT,HDA,VSI,PTB,GHC,PXA,MDG,SVN,THG,CTD,LHC,V12,SHN,TKC,CT3,TNM,GTH,B82,DXV,VC6,VE9,VIT,HT1,PHC,CVT,VC9,ACE,HOM,S74,VC1,ICG,SKS,VHL,QTC,PVA,SD8,L61,LCG,TBX,DC4,CCM,VCG,VE1,TV4,CIC,CDC,C92,BT6,QNC,DIC,CMC,L62,HUT,VC5,S12,VNE,VCS,TCR,SJC,SD2,SCJ,SC5,LGC,SJM,LUT,SDD,VC7,L10,XMC,VC3,SDJ,HCC,UIC,DPC,SNG,BCC,BTS,NAV,NHC,BMP,SD6,CID,SDY,VTS,CYC,HAS,MEC,PTC,HPS,PPG,S91,SDT,SD9,SJE,VMC,CTN,HBC,TTC,DAC,HLY,LBM,DNP,TLT,VTV,VTA,SDN,SIC,VC2,MCO,S99,SD3,SCC,DHA,NTP,SD5,SD7,TXM,DCT,SDC,S55,HTI,PX1,MCL,LM7,HTB,TVG,ADP,REM,DGT,C32,PSB,VT1,PEC,CTA,HVX,JSC,PTL,HCI,ALV,SEL,S27,SCL,PVV,CVN,BVG,LCC,VE2,NHA,VCH,ND2,VE3,TBT,L44,SDH,UDJ,DNC,LO5,SD4,L18,V15,DID,IME,LM3,PVX,SDP,KBT,SD1,VCT,BCE,HU1,UDC,ICI,DC2,TSM,LCS,NNC,V21,QHD,LIG,MCC,TDC,CT6,CX8,PXT,PXS,PXM,PXI,VXB,NSN,IJC,VES,DAG,PHH,CTI,SDE,L35,MCG,TMX,VPC,ACC,TV3,CTM,VCC,V11,SSM,CNT"
+        },
+        {
+            "industryCode": "2720",
+            "industryLevel": "3",
+            "higherLevelCode": "2700",
+            "englishName": "General Industrials",
+            "vietnameseName": "Công nghiệp tổng hợp",
+            "totalCount": 40.0,
+            "codeList": "RDP,UEM,PBT,DLT,TKA,BBH,NNG,PRT,NHP,IBD,HKP,PMP,SPA,DAT,PBP,KSK,SVI,DVH,BXH,VKP,TPP,SPP,VPK,TPC,SFN,TTP,BBS,HBD,MCP,STP,BPC,VKC,SMA,MAX,AAA,HPB,VBC,BTG,HDO,SDG"
+        },
+        {
+            "industryCode": "2730",
+            "industryLevel": "3",
+            "higherLevelCode": "2700",
+            "englishName": "Electronic & Electrical Equipment",
+            "vietnameseName": "Dụng cụ điện & Điện tử",
+            "totalCount": 30.0,
+            "codeList": "AME,GEE,PHN,HLS,THI,HEM,VEE,DDG,KIP,SHE,CVC,XMP,MA1,EMG,GEX,DHP,EMC,CAV,TBD,TSB,PPS,GLT,DQC,DZM,BTH,RAL,PAC,LCD,KTT,TV1"
+        },
+        {
+            "industryCode": "2750",
+            "industryLevel": "3",
+            "higherLevelCode": "2700",
+            "englishName": "Industrial Engineering",
+            "vietnameseName": "Công nghiệp cơ khí ",
+            "totalCount": 19.0,
+            "codeList": "SRF,MDT,CMK,CKH,DFC,CTT,BHC,CE1,PVM,GGG,HTL,MAC,BTC,PTM,ALP,CJC,PMS,CTB,LM8"
+        },
+        {
+            "industryCode": "2770",
+            "industryLevel": "3",
+            "higherLevelCode": "2700",
+            "englishName": "Industrial Transportation",
+            "vietnameseName": "Giao thông công nghiệp",
+            "totalCount": 149.0,
+            "codeList": "VIN,GIC,CQN,PNP,VTP,VSE,CIA,CCT,HCS,TTV,NBR,DBH,VTM,SGN,ISG,NCT,ASG,TR1,VXT,VGR,CPI,DAR,NAS,QBR,HRT,SAC,RTS,QSP,VPA,VMS,SAS,PLO,MVN,ILS,SCS,QLT,PKR,NTR,ACV,YRC,SGP,NWT,VSA,TPS,VT8,EMS,CAG,TOT,VSM,DSS,THR,HTR,RTH,TUG,DSV,HLR,DNR,CDN,HHV,NAP,TOS,PAP,DKH,SAL,MLN,HNT,BTR,RAT,DOP,CCR,PHP,HAH,SIG,DS3,TCW,PDV,TSG,CCP,RHN,IST,TNP,PVP,HHN,SRT,DDH,CMP,TRS,VLG,CNH,CLL,TTZ,SKG,DHL,DNL,VTX,SGS,NOS,BXD,PDN,SWC,SSG,DVP,VNA,HTV,TCO,VNL,VST,VSG,DDM,VSC,VTO,VFR,TJC,SFI,PVT,PTS,PSC,PJC,HCT,PJT,TMS,VSP,GMD,VFC,DXP,SHC,VGP,VIP,MHC,VNF,PRC,HPL,PTH,PTT,SCO,VOS,PCT,WTC,MAS,HMH,TCL,HHG,SBC,STS,DL1,STG,PSP,PGT,VNT"
+        },
+        {
+            "industryCode": "2790",
+            "industryLevel": "3",
+            "higherLevelCode": "2700",
+            "englishName": "Support Services",
+            "vietnameseName": "Dịch vụ hỗ trợ",
+            "totalCount": 76.0,
+            "codeList": "TV2,CFM,MTB,CGL,MHP,ILC,TBN,MND,MPY,PYU,SSU,NNB,CNN,MTL,DKC,USD,MBN,NAU,MVY,TVU,CDH,TVM,TOP,DUS,UMC,CVH,BMD,MLC,HSA,SLC,MQN,KTU,MQB,MTV,VLP,TEC,UPC,UCT,IFC,CLM,BCG,HTH,LPT,CAM,BLU,HEP,SVL,THU,BRS,ITS,MHY,HTK,MDA,SON,SUM,KGU,DNE,QNU,NUE,HTU,SZE,MTH,SPI,SFT,PPE,INC,SRB,PVE,SDA,VNC,CMS,ARM,STU,VQC,GER,VCM"
+        },
+        {
+            "industryCode": "3350",
+            "industryLevel": "3",
+            "higherLevelCode": "3300",
+            "englishName": "Automobiles & Parts",
+            "vietnameseName": "Ôtô & phụ tùng ôtô",
+            "totalCount": 10.0,
+            "codeList": "CSM,VEA,IRC,FT1,VMA,HHS,DAS,SRC,DRC,TMT"
+        },
+        {
+            "industryCode": "3530",
+            "industryLevel": "3",
+            "higherLevelCode": "3500",
+            "englishName": "Beverages",
+            "vietnameseName": "Đồ uống",
+            "totalCount": 36.0,
+            "codeList": "HAD,SKH,BBM,SKV,QHW,SKN,HBH,HLB,SBL,BTB,FCC,BSL,NAF,BSH,BHK,BAL,HAV,BSD,BSQ,HNR,BQB,SB1,BHN,BSP,BHP,VCF,THB,SAB,VDL,VTL,SCD,THV,HAT,VKD,SMB,WSB"
+        },
+        {
+            "industryCode": "3570",
+            "industryLevel": "3",
+            "higherLevelCode": "3500",
+            "englishName": "Food Producers",
+            "vietnameseName": "Sản xuất thực phẩm",
+            "totalCount": 147.0,
+            "codeList": "BLF,IDP,MCM,GQN,MML,CFV,APF,QNS,SGO,HNG,PAN,GTN,EPC,KGM,KSE,CMN,BMV,SEP,MCH,HKT,CMF,NKD,HNF,VLC,HJC,HVA,HKB,SCA,BCF,NNQ,CPA,CBC,THP,DFS,BKH,BHG,C22,ILA,BLT,CBS,PCF,MSC,VOC,GTC,TAR,NSS,HSL,CAT,TCJ,SJF,PNG,AGX,CNA,BAF,DMN,LYF,SCV,VTQ,MXC,HGA,VSF,KHS,KDF,JOS,NHV,ANT,VSN,VHI,CCA,TAN,APT,FGL,TTJ,FCS,SPV,MLS,SEA,GGS,AFX,CTP,NDF,SPH,PRO,TFC,SLS,SNC,SSN,AGM,CLP,GFC,S33,MCF,KTS,IDI,FDG,TH1,MSN,HVG,HHC,DBC,ATA,CFC,BAS,ACL,LSS,TSC,NGC,SBT,PIT,FBT,VHC,ANV,KDC,TS4,CAN,NSC,ICF,IFS,SAF,SGC,VNM,LAF,SSC,TAC,SJ1,AGF,BHS,FMC,HNM,MPC,ABT,BBC,AVF,CMX,SPD,SHV,PSL,DNF,VHF,VIA,AGD,SEC,AAM,CAD,NHS,DBF,VNH"
+        },
+        {
+            "industryCode": "3720",
+            "industryLevel": "3",
+            "higherLevelCode": "3700",
+            "englishName": "Household Goods",
+            "vietnameseName": "Hàng gia dụng",
+            "totalCount": 39.0,
+            "codeList": "SHI,QNT,PQN,HAN,RBC,HHA,G20,KTL,THD,CKG,XDH,AC4,TDF,CT5,SSH,ACG,DFF,HC1,BM9,XHC,ASA,GHA,YSC,SHA,NSP,MDF,LIX,MHL,TTF,GTA,GDT,DCS,SAV,EVE,HVC,NET,DLG,TLG,TMW"
+        },
+        {
+            "industryCode": "3740",
+            "industryLevel": "3",
+            "higherLevelCode": "3700",
+            "englishName": "Leisure Goods",
+            "vietnameseName": "Hàng hóa giải trí",
+            "totalCount": 8.0,
+            "codeList": "NAG,HNE,HVH,NHT,VEC,FBA,VBH,VTB"
+        },
+        {
+            "industryCode": "3760",
+            "industryLevel": "3",
+            "higherLevelCode": "3700",
+            "englishName": "Personal Goods",
+            "vietnameseName": "Hàng hóa cá nhân",
+            "totalCount": 60.0,
+            "codeList": "KMR,AAT,NJC,ATD,AQN,BMG,DCG,BBT,HNI,TVT,HRG,VGG,TLI,MSH,A32,HUG,MGG,PPH,FTM,VGT,MPT,LGM,HPU,DM7,X26,TDT,HSM,X20,M10,HTG,BDF,BDG,SVD,HKC,GTK,HCB,MDN,AG1,NTT,SPB,HLT,VDM,MNB,HFS,GTD,BVN,VTI,GMC,NDT,TNG,TCM,NPS,GIL,TTG,SSF,PTG,VDN,KSD,TET,HDM"
+        },
+        {
+            "industryCode": "3780",
+            "industryLevel": "3",
+            "higherLevelCode": "3700",
+            "englishName": "Tobacco",
+            "vietnameseName": "Thuốc lá",
+            "totalCount": 5.0,
+            "codeList": "CLC,SHX,VTJ,HLG,NST"
+        },
+        {
+            "industryCode": "4530",
+            "industryLevel": "3",
+            "higherLevelCode": "4500",
+            "englishName": "Health Care Equipment & Services",
+            "vietnameseName": "Dụng cụ & dịch vụ y tế",
+            "totalCount": 11.0,
+            "codeList": "DMC,DTH,SOV,MRF,AMP,TTD,TNH,MEF,JVC,DNM,AMV"
+        },
+        {
+            "industryCode": "4570",
+            "industryLevel": "3",
+            "higherLevelCode": "4500",
+            "englishName": "Pharmaceuticals & Biotechnology",
+            "vietnameseName": "Dược phẩm & công nghệ sinh học",
+            "totalCount": 53.0,
+            "codeList": "PMC,MED,NTF,DKP,BCP,DP3,VET,DPH,AGP,DVD,DTP,ABS,VNY,DBD,TW3,CDP,PME,TVP,DHD,DTG,DAN,VTZ,PBC,BIO,DP1,YTC,NDP,VXP,DHN,VDP,DP2,DVN,HDP,UPH,DOC,CGP,DBT,PPP,DDN,TRA,DHT,MKV,OPC,DHG,IMP,MTP,LDP,DBM,DCL,DPP,SPM,MKP,NDC"
+        },
+        {
+            "industryCode": "5330",
+            "industryLevel": "3",
+            "higherLevelCode": "5300",
+            "englishName": "Food & Drug Retailers",
+            "vietnameseName": "Bán lẻ thực phẩm & thuốc",
+            "totalCount": 7.0,
+            "codeList": "VMD,HAF,BNA,VHE,FHN,CLX,VLF"
+        },
+        {
+            "industryCode": "5370",
+            "industryLevel": "3",
+            "higherLevelCode": "5300",
+            "englishName": "General Retailers",
+            "vietnameseName": "Bán lẻ",
+            "totalCount": 53.0,
+            "codeList": "DAD,STH,LMH,AST,TTH,DGW,FID,MEG,CEN,CPH,FRT,PNJ,LBC,GCB,SMN,CRC,KTC,HTM,T12,AUM,BMF,NBE,CTF,VNB,MWG,AMD,SDV,BSC,HST,TIE,BED,EFI,SED,QST,DST,TNA,TMC,SVC,PET,HAX,SFC,COM,EBS,PNC,CMV,KBE,BST,CTC,MJC,HTC,CCI,BTT,BDB"
+        },
+        {
+            "industryCode": "5550",
+            "industryLevel": "3",
+            "higherLevelCode": "5500",
+            "englishName": "Media",
+            "vietnameseName": "Truyền thông",
+            "totalCount": 34.0,
+            "codeList": "INN,ODE,IBN,VEF,ADG,YEG,CAB,IPH,DNB,HAB,FHS,IDN,EPH,FOC,IKH,SVT,ADC,EID,ECI,HEV,LBE,HBE,SGD,HTP,ALT,DAE,DHI,STC,TPH,SAP,IHK,PTP,IN4,VNX"
+        },
+        {
+            "industryCode": "5750",
+            "industryLevel": "3",
+            "higherLevelCode": "5700",
+            "englishName": "Travel & Leisure",
+            "vietnameseName": "Du lịch & Giải trí",
+            "totalCount": 45.0,
+            "codeList": "VNS,BCV,VTR,HGT,HVN,DAH,TSD,RGC,HES,BSG,BLN,VTG,HNB,VTD,TSJ,ATS,CXH,NCS,DCD,BXT,DSP,TTT,BTV,VJC,NPH,MTC,KLF,FDT,DLD,STT,DLC,HOT,VNG,DNT,RIC,TCT,SGH,MNC,DSN,WCS,GTT,VIR,DXL,TTR,PDC"
+        },
+        {
+            "industryCode": "6530",
+            "industryLevel": "3",
+            "higherLevelCode": "6500",
+            "englishName": "Fixed Line Telecommunications",
+            "vietnameseName": "Viễn thông cố định",
+            "totalCount": 6.0,
+            "codeList": "VTC,VGI,CTR,TEL,FOX,PTO"
+        },
+        {
+            "industryCode": "6570",
+            "industryLevel": "3",
+            "higherLevelCode": "6500",
+            "englishName": "Mobile Telecommunications",
+            "vietnameseName": "Viễn thông di động",
+            "totalCount": 4.0,
+            "codeList": "NIS,TTN,MFS,ABC"
+        },
+        {
+            "industryCode": "7530",
+            "industryLevel": "3",
+            "higherLevelCode": "7500",
+            "englishName": "Electricity",
+            "vietnameseName": "Điện lực",
+            "totalCount": 58.0,
+            "codeList": "NT2,GE2,DTE,PBK,GSM,TTA,HNA,EBA,E12,SBH,PGV,NED,DNH,GEG,CHS,VCP,TDB,QTP,EIC,DTK,SP2,EAD,BSA,POW,DNA,SBM,BHA,HND,ISH,HPD,NTH,TTE,AVC,SVH,HLE,SCH,S4A,NCP,VPD,PIC,DRL,QPH,BTP,NBP,TMP,SEB,TBC,PPC,DTC,HJS,RHC,SJD,VSH,KHP,NLC,SHP,CHP,SBA"
+        },
+        {
+            "industryCode": "7570",
+            "industryLevel": "3",
+            "higherLevelCode": "7500",
+            "englishName": "Gas, Water & Multiutilities",
+            "vietnameseName": "Ga, nước & dịch vụ công cộng gia dụng",
+            "totalCount": 85.0,
+            "codeList": "PVG,BNW,PDT,BLW,TVW,PWS,NVP,BDW,REE,HAW,NDW,TOW,DWS,PEG,HWS,NQN,BWS,BGW,HDW,THN,TNW,NLS,NBT,THW,NQB,NSL,PMW,CMW,TAP,DNW,ABR,LDW,PMG,VPW,VAV,DNN,DBW,CTW,TDM,LAW,DWC,SGI,STW,LWS,BPW,NAW,HPW,TAW,TQW,HBW,DVW,GLW,WTN,BWE,VLW,KHW,NS3,QNW,NQT,HTW,LCW,NS2,VCW,GSP,NTW,LKW,PJS,CNG,DVC,THS,NNT,CLW,PGD,ASP,VMG,PGS,MTG,PGC,GAS,TDW,HFC,BTW,NBW,BWA,GDW"
+        },
+        {
+            "industryCode": "8350",
+            "industryLevel": "3",
+            "higherLevelCode": "8300",
+            "englishName": "Banks",
+            "vietnameseName": "Ngân hàng",
+            "totalCount": 28.0,
+            "codeList": "STB,TIN,LPB,BVB,MSB,VPB,TPB,MBB,BID,SGB,VCB,VAB,VIB,OCB,HDB,NVB,NAB,KLB,TCB,BAB,ABB,SSB,VBB,EIB,PGB,SHB,CTG,ACB"
+        },
+        {
+            "industryCode": "8530",
+            "industryLevel": "3",
+            "higherLevelCode": "8500",
+            "englishName": "Nonlife Insurance",
+            "vietnameseName": "Bảo hiểm phi nhân thọ",
+            "totalCount": 12.0,
+            "codeList": "BVH,PRE,AIC,BLI,MIG,PTI,PGI,PVI,BIC,VNR,BMI,ABI"
+        },
+        {
+            "industryCode": "8630",
+            "industryLevel": "3",
+            "higherLevelCode": "8600",
+            "englishName": "Real Estate Investment & Services",
+            "vietnameseName": "Dịch vụ Đầu tư Bất Động Sản",
+            "totalCount": 132.0,
+            "codeList": "HDG,BIG,MGR,E29,TN1,FTI,KOS,VRE,TCH,HGR,TID,BCM,HPI,EIN,HD2,LDG,HGC,AGG,SZB,HD3,PWA,ILB,HPX,NRC,VPI,SNZ,CER,HTT,BAX,SID,PNT,NVL,HU6,HD8,CRE,HIZ,PLA,HRB,LEC,BDP,HBI,LAI,SZG,KSF,GH3,TBH,KHG,DXS,BVL,HD6,SIP,FIR,DCH,IDC,DTI,SGR,VHM,MH3,NTC,BII,SII,NHN,FLC,FIT,NLG,CEO,HAR,VNN,CCL,DIH,CIG,NDN,D11,SDI,HPR,C21,FDC,ASM,DXG,TIX,CSC,HDC,ITC,SDU,LGL,VPH,VNI,D2D,DIG,BCI,NBB,HAG,SZL,VIC,RCL,NTL,KBC,KHA,CII,UNI,SJS,TDH,ITA,PXL,PFL,SCR,KAC,HQC,TIG,OCH,IDJ,QCG,VRC,DRH,STL,CLG,PDR,PFV,DTA,PVR,OGC,VCR,NTB,DLR,IDV,TNT,NVT,PVL,PPI,NVN,LHG,KDH"
+        },
+        {
+            "industryCode": "8670",
+            "industryLevel": "3",
+            "higherLevelCode": "8600",
+            "englishName": "Real Estate Investment Trusts",
+            "vietnameseName": "Quỹ đầu tư Bất Động Sản",
+            "totalCount": 1.0,
+            "codeList": "TIP"
+        },
+        {
+            "industryCode": "8770",
+            "industryLevel": "3",
+            "higherLevelCode": "8700",
+            "englishName": "General Financial",
+            "vietnameseName": "Dịch vụ tài chính",
+            "totalCount": 50.0,
+            "codeList": "HCM,VUA,EVF,IPA,AAS,ART,TVS,CSI,HFT,IBC,SDF,EVS,HAC,TVC,FTS,TCI,VCI,MBS,BMS,DSC,TVB,VFS,BSI,IVS,VIX,AGR,VIG,API,CTS,VDS,TAS,APS,CLS,PVF,KLS,BVS,SSI,PV2,GBS,PIV,PSI,APG,WSS,SHS,HBS,ORS,SBS,AVS,PHS,VND"
+        },
+        {
+            "industryCode": "8980",
+            "industryLevel": "3",
+            "higherLevelCode": "8700",
+            "englishName": "Equity Investment Instruments",
+            "vietnameseName": "Công cụ đầu tư cổ phần",
+            "totalCount": 11.0,
+            "codeList": "FUCVREIT,FUEVFVND,FUESSVFL,FUESSV50,E1SSHN30,E1VFVN30,FUCTVGF3,FUEIP100,FUEVN100,FUCTVGF2,FUCTVGF1"
+        },
+        {
+            "industryCode": "9530",
+            "industryLevel": "3",
+            "higherLevelCode": "9500",
+            "englishName": "Software & Computer Services",
+            "vietnameseName": "Phần mềm & Dịch vụ máy tính",
+            "totalCount": 12.0,
+            "codeList": "CMG,ONW,PAI,PIA,SBD,SGT,SRA,FPT,ELC,VLA,CMT,ITD"
+        },
+        {
+            "industryCode": "9570",
+            "industryLevel": "3",
+            "higherLevelCode": "9500",
+            "englishName": "Technology Hardware & Equipmen",
+            "vietnameseName": "Dụng cụ & công nghệ phần cứng",
+            "totalCount": 27.0,
+            "codeList": "ONE,BEL,VTK,VTE,ICT,PMJ,VTH,PSD,VIE,VAT,KST,TAG,VHG,TGP,HIG,TST,ST8,TLC,POT,TYA,LTC,SAM,PMT,HPT,SMT,CKV,NHW"
+        },
+        {
+            "industryCode": "0533",
+            "industryLevel": "4",
+            "higherLevelCode": "0530",
+            "englishName": "Exploration & Production",
+            "vietnameseName": "Khai thác và sản xuất dầu khí ",
+            "totalCount": 3.0,
+            "codeList": "BCA,HMR,PCN"
+        },
+        {
+            "industryCode": "0537",
+            "industryLevel": "4",
+            "higherLevelCode": "0530",
+            "englishName": "Integrated Oil & Gas",
+            "vietnameseName": "Dầu khí tổng hợp",
+            "totalCount": 8.0,
+            "codeList": "PTX,TLP,POB,TDG,PLX,BSR,PSH,OIL"
+        },
+        {
+            "industryCode": "0573",
+            "industryLevel": "4",
+            "higherLevelCode": "0570",
+            "englishName": "Oil Equipment & Services",
+            "vietnameseName": "Dịch vụ và Thiết bị dầu khí",
+            "totalCount": 16.0,
+            "codeList": "POV,PLE,PTV,POS,PVO,PND,PSN,PEQ,PVY,MTS,PPY,PVB,PCG,PVS,PVC,PVD"
+        },
+        {
+            "industryCode": "1353",
+            "industryLevel": "4",
+            "higherLevelCode": "1350",
+            "englishName": "Commodity Chemicals",
+            "vietnameseName": "Hóa chất cơ bản",
+            "totalCount": 22.0,
+            "codeList": "PHR,DPD,APH,BRR,SBR,GVR,PGN,DRI,NHH,ADS,HPH,STK,HNP,RTB,BRC,DGC,CNC,HRC,DPR,VNP,TRC,TNC"
+        },
+        {
+            "industryCode": "1357",
+            "industryLevel": "4",
+            "higherLevelCode": "1350",
+            "englishName": "Specialty Chemicals",
+            "vietnameseName": "Hóa chất đặc biệt",
+            "totalCount": 37.0,
+            "codeList": "APC,PSW,DDV,DCM,TDP,DCI,DGL,VPS,YBM,CET,SIV,PSE,DHB,BFC,PCE,LTG,SVG,CSV,BT1,PMB,VAF,QBS,LAS,NFC,SFG,XPH,SPC,HPP,CPC,VFG,PLC,HVT,DPM,HSI,HAI,DTT,APP"
+        },
+        {
+            "industryCode": "1733",
+            "industryLevel": "4",
+            "higherLevelCode": "1730",
+            "englishName": "Forestry",
+            "vietnameseName": "Chế phẩm từ gỗ",
+            "totalCount": 11.0,
+            "codeList": "AFC,BKG,TEG,DRG,CHC,TQN,LNC,FRM,VIF,PIS,FRC"
+        },
+        {
+            "industryCode": "1737",
+            "industryLevel": "4",
+            "higherLevelCode": "1730",
+            "englishName": "Paper",
+            "vietnameseName": "Giấy",
+            "totalCount": 9.0,
+            "codeList": "HAP,HHP,GVT,VPR,DTN,DAP,DHC,CAP,VID"
+        },
+        {
+            "industryCode": "1753",
+            "industryLevel": "4",
+            "higherLevelCode": "1750",
+            "englishName": "Aluminum",
+            "vietnameseName": "Nhôm",
+            "totalCount": 2.0,
+            "codeList": "TKU,NSH"
+        },
+        {
+            "industryCode": "1755",
+            "industryLevel": "4",
+            "higherLevelCode": "1750",
+            "englishName": "Nonferrous Metals",
+            "vietnameseName": "Kim loại màu",
+            "totalCount": 8.0,
+            "codeList": "MMC,HSV,CKA,TNI,TMG,KCB,CKD,KVC"
+        },
+        {
+            "industryCode": "1757",
+            "industryLevel": "4",
+            "higherLevelCode": "1750",
+            "englishName": "Steel",
+            "vietnameseName": "Thép",
+            "totalCount": 29.0,
+            "codeList": "TLH,MEL,TVN,DPS,PAS,TTS,CBI,TNS,VGL,ITQ,BAM,TDS,VCA,TIS,NKG,HPG,HMC,KMT,HLA,VIS,SMC,TNB,DNS,HSG,VGS,KKC,DTL,DNY,POM"
+        },
+        {
+            "industryCode": "1771",
+            "industryLevel": "4",
+            "higherLevelCode": "1770",
+            "englishName": "Coal",
+            "vietnameseName": "Than đá",
+            "totalCount": 15.0,
+            "codeList": "THT,MGC,BCB,TMB,TND,VDB,VPG,CZC,TVD,MDC,TCS,TDN,NBC,TC6,HLC"
+        },
+        {
+            "industryCode": "1775",
+            "industryLevel": "4",
+            "higherLevelCode": "1770",
+            "englishName": "General Mining",
+            "vietnameseName": "Khai khoáng nói chung",
+            "totalCount": 42.0,
+            "codeList": "BKC,CST,KLM,MVB,MTM,HUX,VIM,ACM,VBG,HII,ATG,LMC,PLP,MSR,MC3,VCE,KHD,KSV,MTA,KSQ,FCM,DHM,LCM,PTK,AMC,BGM,KSB,KSS,HGM,BMC,MIC,MCV,KTB,MIM,KSA,MIH,BMJ,SQC,KSC,CMI,KHB,KSH"
+        },
+        {
+            "industryCode": "1779",
+            "industryLevel": "4",
+            "higherLevelCode": "1770",
+            "englishName": "Platinum & Precious Metals",
+            "vietnameseName": "Bạch kim & Kim loại quý hiếm khác",
+            "totalCount": 1.0,
+            "codeList": "GLC"
+        },
+        {
+            "industryCode": "2353",
+            "industryLevel": "4",
+            "higherLevelCode": "2350",
+            "englishName": "Building Materials & Fixtures",
+            "vietnameseName": "Vật liệu xây dựng",
+            "totalCount": 149.0,
+            "codeList": "SSM,TKG,DVG,GMA,DSG,GKM,CGV,TVA,L63,APL,XMD,MCI,TTB,CPW,MIE,PCM,X77,AMS,TB8,MES,HMG,L45,KPF,HPM,HSP,HAM,EVG,CEG,MVC,X18,FBC,SBV,TRT,CDG,GND,CLH,PDB,PTE,NXT,TV6,VW3,GAB,CMD,FIC,DND,CQT,HCD,KDM,VGC,DCR,BTN,TLD,BDT,BHV,VIH,BTD,VLB,NSG,SDX,KHL,STV,YBC,CEC,CTX,HFX,PID,CTV,VCX,GMX,KCE,C47,VDT,L40,HU3,HDA,PTB,PXA,THG,DXV,VIT,HT1,CVT,ACE,HOM,VHL,TBX,CCM,BT6,QNC,DIC,VCS,TCR,SCJ,XMC,HCC,DPC,BCC,BTS,NAV,NHC,BMP,SDY,VTS,CYC,HPS,PPG,TTC,DAC,HLY,LBM,DNP,TLT,VTV,VTA,SDN,SCC,DHA,NTP,TXM,DCT,PX1,MCL,ADP,C32,VT1,PEC,CTA,HVX,PTL,ALV,SCL,BVG,LCC,UDJ,DNC,SDP,KBT,SD1,ICI,TSM,LCS,NNC,QHD,MCC,TDC,VXB,DAG,TMX,ACC"
+        },
+        {
+            "industryCode": "2357",
+            "industryLevel": "4",
+            "higherLevelCode": "2350",
+            "englishName": "Heavy Construction",
+            "vietnameseName": "Xây dựng công trình",
+            "totalCount": 249.0,
+            "codeList": "L43,SCG,SZC,TS5,TS3,TA6,PCC,SCY,CC1,LMI,HEJ,PC1,GTS,BTU,PSG,RCD,DTB,HTN,LG9,DTD,VVN,LIC,C36,USC,PXC,MCT,L12,TA9,C71,SHG,NMK,UDL,XLV,S72,LLM,CC4,HTE,ACS,HC3,PVH,HFB,NAC,HGW,DCF,VWS,DPG,ROS,DT4,ICC,I10,TL4,TVH,DX2,AAV,TGG,BUD,SJG,ATB,VGV,EME,VHD,CH5,CCV,HEC,RCC,LQN,DC1,BMN,MBG,ICN,CDO,GMH,DXD,HUB,BDC,TTL,TCK,CIP,CCH,CDR,HMS,TCD,CEE,FSO,MST,BOT,C4G,QLD,TA3,VIW,C69,HHR,C12,G36,RLC,HID,HU4,VE8,VMI,VE4,PEN,SDB,VHH,FCN,ASD,QCC,NDX,HLD,VRG,S96,SCI,L14,CI5,TNY,D26,SDK,DTV,H11,PTD,BHT,VSI,GHC,MDG,SVN,CTD,LHC,V12,SHN,TKC,CT3,TNM,GTH,B82,VC6,VE9,PHC,VC9,S74,VC1,ICG,SKS,QTC,PVA,SD8,L61,LCG,DC4,VCG,VE1,TV4,CIC,CDC,C92,CMC,L62,HUT,VC5,S12,VNE,SJC,SD2,SC5,LGC,SJM,LUT,SDD,VC7,L10,VC3,SDJ,UIC,SNG,SD6,CID,HAS,MEC,PTC,S91,SDT,SD9,SJE,VMC,CTN,HBC,SIC,VC2,MCO,S99,SD3,SD5,SD7,SDC,S55,HTI,LM7,HTB,TVG,REM,DGT,PSB,JSC,HCI,SEL,S27,PVV,CVN,VE2,NHA,VCH,ND2,VE3,TBT,L44,SDH,LO5,SD4,L18,V15,DID,IME,LM3,PVX,VCT,BCE,HU1,UDC,DC2,V21,LIG,CT6,CX8,PXT,PXS,PXM,PXI,NSN,IJC,VES,PHH,CTI,SDE,L35,MCG,VPC,TV3,CTM,VCC,V11,CNT"
+        },
+        {
+            "industryCode": "2723",
+            "industryLevel": "4",
+            "higherLevelCode": "2720",
+            "englishName": "Containers & Packaging",
+            "vietnameseName": "Bao bì & đóng gói",
+            "totalCount": 33.0,
+            "codeList": "RDP,PBT,TKA,BBH,NNG,NHP,IBD,HKP,PMP,SPA,PBP,SVI,DVH,BXH,VKP,TPP,SPP,VPK,TPC,SFN,TTP,BBS,HBD,MCP,STP,BPC,MAX,AAA,HPB,VBC,BTG,HDO,SDG"
+        },
+        {
+            "industryCode": "2727",
+            "industryLevel": "4",
+            "higherLevelCode": "2720",
+            "englishName": "Diversified Industrials",
+            "vietnameseName": "Công nghiệp đa ngành",
+            "totalCount": 7.0,
+            "codeList": "SMA,UEM,DLT,PRT,DAT,KSK,VKC"
+        },
+        {
+            "industryCode": "2733",
+            "industryLevel": "4",
+            "higherLevelCode": "2730",
+            "englishName": "Electrical Components & Equipment",
+            "vietnameseName": "Thiết bị điện",
+            "totalCount": 29.0,
+            "codeList": "AME,GEE,PHN,HLS,THI,HEM,VEE,DDG,KIP,SHE,CVC,XMP,MA1,EMG,GEX,DHP,EMC,CAV,TBD,TSB,PPS,DQC,DZM,BTH,RAL,PAC,LCD,KTT,TV1"
+        },
+        {
+            "industryCode": "2737",
+            "industryLevel": "4",
+            "higherLevelCode": "2730",
+            "englishName": "Electronic Equipment",
+            "vietnameseName": "Thiết bị điện tử",
+            "totalCount": 1.0,
+            "codeList": "GLT"
+        },
+        {
+            "industryCode": "2753",
+            "industryLevel": "4",
+            "higherLevelCode": "2750",
+            "englishName": "Commercial Vehicles & Trucks",
+            "vietnameseName": "Xe tải và phương tiện vận chuyển thương mại",
+            "totalCount": 5.0,
+            "codeList": "PMS,BHC,GGG,HTL,MAC"
+        },
+        {
+            "industryCode": "2757",
+            "industryLevel": "4",
+            "higherLevelCode": "2750",
+            "englishName": "Industrial Machinery",
+            "vietnameseName": "Máy công nghiệp",
+            "totalCount": 14.0,
+            "codeList": "SRF,MDT,CMK,CKH,DFC,CTT,CE1,PVM,BTC,PTM,ALP,CJC,CTB,LM8"
+        },
+        {
+            "industryCode": "2771",
+            "industryLevel": "4",
+            "higherLevelCode": "2770",
+            "englishName": "Delivery Services",
+            "vietnameseName": "Dịch vụ giao nhận",
+            "totalCount": 10.0,
+            "codeList": "VIN,CQN,VTP,NCT,SAC,PLO,ILS,EMS,SCO,VNT"
+        },
+        {
+            "industryCode": "2773",
+            "industryLevel": "4",
+            "higherLevelCode": "2770",
+            "englishName": "Marine Transportation",
+            "vietnameseName": "Vận tải biển",
+            "totalCount": 38.0,
+            "codeList": "WTC,PNP,ISG,VGR,VPA,VMS,MVN,QLT,VSA,TUG,NAP,SAL,DOP,PDV,PVP,CMP,TRS,VLG,SKG,NOS,SWC,SSG,VNA,TCO,VNL,VST,DDM,VTO,VFR,TJC,SFI,PVT,PTS,VSP,SHC,VIP,MHC,VOS"
+        },
+        {
+            "industryCode": "2775",
+            "industryLevel": "4",
+            "higherLevelCode": "2770",
+            "englishName": "Railroads",
+            "vietnameseName": "Đường sắt",
+            "totalCount": 21.0,
+            "codeList": "RHN,HCS,TTV,NBR,DAR,QBR,HRT,RTS,PKR,NTR,YRC,DSS,THR,HTR,RTH,DSV,HLR,DNR,BTR,RAT,TSG"
+        },
+        {
+            "industryCode": "2777",
+            "industryLevel": "4",
+            "higherLevelCode": "2770",
+            "englishName": "Transportation Services",
+            "vietnameseName": "Dịch vụ vận tải",
+            "totalCount": 78.0,
+            "codeList": "PGT,GIC,VSE,CIA,CCT,DBH,VTM,SGN,ASG,TR1,VXT,CPI,NAS,QSP,SAS,SCS,ACV,SGP,NWT,TPS,VT8,CAG,TOT,VSM,CDN,HHV,TOS,PAP,DKH,MLN,HNT,CCR,PHP,HAH,SIG,DS3,TCW,CCP,IST,TNP,HHN,SRT,DDH,CNH,CLL,DHL,DNL,VTX,SGS,BXD,PDN,DVP,HTV,VSG,VSC,PSC,PJC,HCT,PJT,TMS,GMD,VFC,DXP,VGP,VNF,PRC,HPL,PTH,PTT,PCT,MAS,HMH,TCL,HHG,STS,DL1,STG,PSP"
+        },
+        {
+            "industryCode": "2779",
+            "industryLevel": "4",
+            "higherLevelCode": "2770",
+            "englishName": "Trucking",
+            "vietnameseName": "Vận tải xe tải",
+            "totalCount": 2.0,
+            "codeList": "SBC,TTZ"
+        },
+        {
+            "industryCode": "2791",
+            "industryLevel": "4",
+            "higherLevelCode": "2790",
+            "englishName": "Business Support Services",
+            "vietnameseName": "Dịch vụ hỗ trợ kinh doanh",
+            "totalCount": 14.0,
+            "codeList": "TV2,CNN,DKC,TVM,HSA,BCG,HTH,HTK,PPE,INC,PVE,VNC,VQC,GER"
+        },
+        {
+            "industryCode": "2793",
+            "industryLevel": "4",
+            "higherLevelCode": "2790",
+            "englishName": "Business Training & Employment Agencies",
+            "vietnameseName": "Dịch vụ cung ứng lao động và đào tạo",
+            "totalCount": 12.0,
+            "codeList": "VCM,CFM,ILC,SLC,TEC,LPT,SVL,SON,SFT,SRB,SDA,CMS"
+        },
+        {
+            "industryCode": "2797",
+            "industryLevel": "4",
+            "higherLevelCode": "2790",
+            "englishName": "Industrial Suppliers",
+            "vietnameseName": "Cung ứng",
+            "totalCount": 8.0,
+            "codeList": "ARM,CGL,TOP,IFC,CLM,ITS,SUM,SPI"
+        },
+        {
+            "industryCode": "2799",
+            "industryLevel": "4",
+            "higherLevelCode": "2790",
+            "englishName": "Waste & Disposal Services",
+            "vietnameseName": "Dịch vụ xử lý phế liệu phế thải",
+            "totalCount": 42.0,
+            "codeList": "STU,MTB,MHP,TBN,MND,MPY,PYU,SSU,NNB,MTL,USD,MBN,NAU,MVY,TVU,CDH,DUS,UMC,CVH,BMD,MLC,MQN,KTU,MQB,MTV,VLP,UPC,UCT,CAM,BLU,HEP,THU,BRS,MHY,MDA,KGU,DNE,QNU,NUE,HTU,SZE,MTH"
+        },
+        {
+            "industryCode": "3353",
+            "industryLevel": "4",
+            "higherLevelCode": "3350",
+            "englishName": "Automobiles",
+            "vietnameseName": "Ôtô",
+            "totalCount": 4.0,
+            "codeList": "TMT,VEA,VMA,HHS"
+        },
+        {
+            "industryCode": "3355",
+            "industryLevel": "4",
+            "higherLevelCode": "3350",
+            "englishName": "Auto Parts",
+            "vietnameseName": "Phụ tùng ô tô",
+            "totalCount": 2.0,
+            "codeList": "DAS,FT1"
+        },
+        {
+            "industryCode": "3357",
+            "industryLevel": "4",
+            "higherLevelCode": "3350",
+            "englishName": "Tires",
+            "vietnameseName": "Săm lốp",
+            "totalCount": 4.0,
+            "codeList": "CSM,IRC,SRC,DRC"
+        },
+        {
+            "industryCode": "3533",
+            "industryLevel": "4",
+            "higherLevelCode": "3530",
+            "englishName": "Brewers",
+            "vietnameseName": "Sản xuất bia",
+            "totalCount": 22.0,
+            "codeList": "HAD,BBM,HBH,HLB,SBL,BTB,FCC,BSL,BSH,BHK,BAL,BSD,BSQ,BQB,SB1,BHN,BSP,BHP,THB,SAB,HAT,WSB"
+        },
+        {
+            "industryCode": "3535",
+            "industryLevel": "4",
+            "higherLevelCode": "3530",
+            "englishName": "Distillers & Vintners",
+            "vietnameseName": "Rượu, đồ uống có cồn",
+            "totalCount": 4.0,
+            "codeList": "VTL,HAV,HNR,VDL"
+        },
+        {
+            "industryCode": "3537",
+            "industryLevel": "4",
+            "higherLevelCode": "3530",
+            "englishName": "Soft Drinks",
+            "vietnameseName": "Nước ngọt",
+            "totalCount": 10.0,
+            "codeList": "SMB,SKH,SKV,QHW,SKN,NAF,VCF,SCD,THV,VKD"
+        },
+        {
+            "industryCode": "3573",
+            "industryLevel": "4",
+            "higherLevelCode": "3570",
+            "englishName": "Farming & Fishing",
+            "vietnameseName": "Nông sản và thủy hải sản",
+            "totalCount": 74.0,
+            "codeList": "BLF,GQN,HNG,EPC,KSE,SEP,VLC,HJC,SCA,NNQ,CPA,CBC,THP,MSC,GTC,TAR,NSS,HSL,TCJ,SJF,BAF,DMN,VTQ,MXC,HGA,VSF,KHS,JOS,TAN,FGL,FCS,MLS,SEA,GGS,AFX,CTP,SPH,PRO,SSN,CLP,GFC,IDI,FDG,TH1,HVG,DBC,ATA,CFC,BAS,ACL,TSC,NGC,PIT,FBT,VHC,ANV,TS4,NSC,ICF,SSC,SJ1,AGF,FMC,MPC,ABT,AVF,SPD,SHV,PSL,DNF,AGD,AAM,CAD,VNH"
+        },
+        {
+            "industryCode": "3577",
+            "industryLevel": "4",
+            "higherLevelCode": "3570",
+            "englishName": "Food Production",
+            "vietnameseName": "Sản xuất thực phẩm",
+            "totalCount": 73.0,
+            "codeList": "DBF,IDP,MCM,MML,CFV,APF,QNS,SGO,PAN,GTN,KGM,CMN,BMV,MCH,HKT,CMF,NKD,HNF,HVA,HKB,BCF,DFS,BKH,BHG,C22,ILA,BLT,CBS,PCF,VOC,CAT,PNG,AGX,CNA,LYF,SCV,KDF,NHV,ANT,VSN,VHI,CCA,APT,TTJ,SPV,NDF,TFC,SLS,SNC,AGM,S33,MCF,KTS,MSN,HHC,LSS,SBT,KDC,CAN,IFS,SAF,SGC,VNM,LAF,TAC,BHS,HNM,BBC,CMX,VHF,VIA,SEC,NHS"
+        },
+        {
+            "industryCode": "3722",
+            "industryLevel": "4",
+            "higherLevelCode": "3720",
+            "englishName": "Durable Household Products",
+            "vietnameseName": "Các sản phẩm gia dụng lâu bền",
+            "totalCount": 7.0,
+            "codeList": "SHI,G20,KTL,SHA,NSP,MHL,EVE"
+        },
+        {
+            "industryCode": "3724",
+            "industryLevel": "4",
+            "higherLevelCode": "3720",
+            "englishName": "Nondurable Household Products",
+            "vietnameseName": "Sản phẩm gia dụng không lâu bền",
+            "totalCount": 5.0,
+            "codeList": "TLG,HHA,ASA,LIX,NET"
+        },
+        {
+            "industryCode": "3726",
+            "industryLevel": "4",
+            "higherLevelCode": "3720",
+            "englishName": "Furnishings",
+            "vietnameseName": "Đồ đạc, nội thất",
+            "totalCount": 14.0,
+            "codeList": "TMW,RBC,ACG,XHC,GHA,YSC,MDF,TTF,GTA,GDT,DCS,SAV,HVC,DLG"
+        },
+        {
+            "industryCode": "3728",
+            "industryLevel": "4",
+            "higherLevelCode": "3720",
+            "englishName": "Home Construction",
+            "vietnameseName": "Xây dựng, chế tạo nhà ở",
+            "totalCount": 13.0,
+            "codeList": "BM9,QNT,PQN,HAN,THD,CKG,XDH,AC4,TDF,CT5,SSH,DFF,HC1"
+        },
+        {
+            "industryCode": "3743",
+            "industryLevel": "4",
+            "higherLevelCode": "3740",
+            "englishName": "Consumer Electronics",
+            "vietnameseName": "Đồ điện tử",
+            "totalCount": 6.0,
+            "codeList": "NAG,HNE,VEC,FBA,VBH,VTB"
+        },
+        {
+            "industryCode": "3745",
+            "industryLevel": "4",
+            "higherLevelCode": "3740",
+            "englishName": "Recreational Products",
+            "vietnameseName": "Thiết bị, đồ dùng phục vụ mục đích vui chơi giải trí",
+            "totalCount": 1.0,
+            "codeList": "HVH"
+        },
+        {
+            "industryCode": "3747",
+            "industryLevel": "4",
+            "higherLevelCode": "3740",
+            "englishName": "Toys",
+            "vietnameseName": "Đồ chơi các loại",
+            "totalCount": 1.0,
+            "codeList": "NHT"
+        },
+        {
+            "industryCode": "3763",
+            "industryLevel": "4",
+            "higherLevelCode": "3760",
+            "englishName": "Clothing & Accessories",
+            "vietnameseName": "Đồ may mặc, trang sức, phụ kiện",
+            "totalCount": 56.0,
+            "codeList": "KMR,AAT,NJC,ATD,AQN,BMG,DCG,HNI,TVT,HRG,VGG,TLI,MSH,A32,HUG,MGG,PPH,FTM,VGT,MPT,LGM,HPU,DM7,X26,TDT,HSM,X20,M10,HTG,BDG,SVD,HKC,HCB,MDN,AG1,NTT,SPB,HLT,VDM,MNB,HFS,BVN,VTI,GMC,NDT,TNG,TCM,NPS,GIL,TTG,SSF,PTG,VDN,KSD,TET,HDM"
+        },
+        {
+            "industryCode": "3765",
+            "industryLevel": "4",
+            "higherLevelCode": "3760",
+            "englishName": "Footwear",
+            "vietnameseName": "Giầy dép",
+            "totalCount": 3.0,
+            "codeList": "GTD,BDF,GTK"
+        },
+        {
+            "industryCode": "3767",
+            "industryLevel": "4",
+            "higherLevelCode": "3760",
+            "englishName": "Personal Products",
+            "vietnameseName": "Vật dụng cá nhân",
+            "totalCount": 1.0,
+            "codeList": "BBT"
+        },
+        {
+            "industryCode": "3785",
+            "industryLevel": "4",
+            "higherLevelCode": "3780",
+            "englishName": "Tobacco",
+            "vietnameseName": "Thuốc lá",
+            "totalCount": 5.0,
+            "codeList": "CLC,SHX,VTJ,HLG,NST"
+        },
+        {
+            "industryCode": "4533",
+            "industryLevel": "4",
+            "higherLevelCode": "4530",
+            "englishName": "Health Care Providers",
+            "vietnameseName": "Dịch vụ y tế",
+            "totalCount": 2.0,
+            "codeList": "TNH,TTD"
+        },
+        {
+            "industryCode": "4535",
+            "industryLevel": "4",
+            "higherLevelCode": "4530",
+            "englishName": "Medical Equipment",
+            "vietnameseName": "Thiết bị y tế",
+            "totalCount": 7.0,
+            "codeList": "DMC,DTH,AMP,MEF,JVC,DNM,AMV"
+        },
+        {
+            "industryCode": "4537",
+            "industryLevel": "4",
+            "higherLevelCode": "4530",
+            "englishName": "Medical Supplies",
+            "vietnameseName": "Vật dụng y tế",
+            "totalCount": 2.0,
+            "codeList": "MRF,SOV"
+        },
+        {
+            "industryCode": "4573",
+            "industryLevel": "4",
+            "higherLevelCode": "4570",
+            "englishName": "Biotechnology",
+            "vietnameseName": "Sản phẩm sinh hóa",
+            "totalCount": 3.0,
+            "codeList": "DOC,ABS,VTZ"
+        },
+        {
+            "industryCode": "4577",
+            "industryLevel": "4",
+            "higherLevelCode": "4570",
+            "englishName": "Pharmaceuticals",
+            "vietnameseName": "Dược phẩm",
+            "totalCount": 50.0,
+            "codeList": "PMC,MED,NTF,DKP,BCP,DP3,VET,DPH,AGP,DVD,DTP,VNY,DBD,TW3,CDP,PME,TVP,DHD,DTG,DAN,PBC,BIO,DP1,YTC,NDP,VXP,DHN,VDP,DP2,DVN,HDP,UPH,CGP,DBT,PPP,DDN,TRA,DHT,MKV,OPC,DHG,IMP,MTP,LDP,DBM,DCL,DPP,SPM,MKP,NDC"
+        },
+        {
+            "industryCode": "5333",
+            "industryLevel": "4",
+            "higherLevelCode": "5330",
+            "englishName": "Drug Retailers",
+            "vietnameseName": "Bán lẻ dược phẩm",
+            "totalCount": 2.0,
+            "codeList": "VMD,VHE"
+        },
+        {
+            "industryCode": "5337",
+            "industryLevel": "4",
+            "higherLevelCode": "5330",
+            "englishName": "Food Retailers & Wholesalers",
+            "vietnameseName": "Bán lẻ thực phẩm",
+            "totalCount": 5.0,
+            "codeList": "VLF,HAF,BNA,FHN,CLX"
+        },
+        {
+            "industryCode": "5373",
+            "industryLevel": "4",
+            "higherLevelCode": "5370",
+            "englishName": "Broadline Retailers",
+            "vietnameseName": "Bán lẻ tổng hợp",
+            "totalCount": 8.0,
+            "codeList": "TNA,LMH,DGW,KTC,HTM,MWG,AMD,BSC"
+        },
+        {
+            "industryCode": "5375",
+            "industryLevel": "4",
+            "higherLevelCode": "5370",
+            "englishName": "Home Improvement Retailers",
+            "vietnameseName": "Bán lẻ dụng cụ gia đình",
+            "totalCount": 4.0,
+            "codeList": "T12,FID,MEG,CRC"
+        },
+        {
+            "industryCode": "5377",
+            "industryLevel": "4",
+            "higherLevelCode": "5370",
+            "englishName": "Specialized Consumer Services",
+            "vietnameseName": "Dịch vụ tiêu dùng chuyên dụng",
+            "totalCount": 7.0,
+            "codeList": "TIE,STH,AST,TTH,CPH,LBC,SDV"
+        },
+        {
+            "industryCode": "5379",
+            "industryLevel": "4",
+            "higherLevelCode": "5370",
+            "englishName": "Specialty Retailers",
+            "vietnameseName": "Cửa hàng chuyên dụng",
+            "totalCount": 34.0,
+            "codeList": "DAD,CEN,FRT,PNJ,GCB,SMN,AUM,BMF,NBE,CTF,VNB,HST,BED,EFI,SED,QST,DST,TMC,SVC,PET,HAX,SFC,COM,EBS,PNC,CMV,KBE,BST,CTC,MJC,HTC,CCI,BTT,BDB"
+        },
+        {
+            "industryCode": "5555",
+            "industryLevel": "4",
+            "higherLevelCode": "5550",
+            "englishName": "Media Agencies",
+            "vietnameseName": "Các hãng truyền thông",
+            "totalCount": 6.0,
+            "codeList": "VNX,ODE,VEF,ADG,YEG,CAB"
+        },
+        {
+            "industryCode": "5557",
+            "industryLevel": "4",
+            "higherLevelCode": "5550",
+            "englishName": "Publishing",
+            "vietnameseName": "Hoạt động xuất bản",
+            "totalCount": 28.0,
+            "codeList": "INN,IBN,IPH,DNB,HAB,FHS,IDN,EPH,FOC,IKH,SVT,ADC,EID,ECI,HEV,LBE,HBE,SGD,HTP,ALT,DAE,DHI,STC,TPH,SAP,IHK,PTP,IN4"
+        },
+        {
+            "industryCode": "5751",
+            "industryLevel": "4",
+            "higherLevelCode": "5750",
+            "englishName": "Airlines",
+            "vietnameseName": "Hàng không",
+            "totalCount": 2.0,
+            "codeList": "VJC,HVN"
+        },
+        {
+            "industryCode": "5752",
+            "industryLevel": "4",
+            "higherLevelCode": "5750",
+            "englishName": "Gambling",
+            "vietnameseName": "Sòng bạc",
+            "totalCount": 1.0,
+            "codeList": "RIC"
+        },
+        {
+            "industryCode": "5753",
+            "industryLevel": "4",
+            "higherLevelCode": "5750",
+            "englishName": "Hotels",
+            "vietnameseName": "Khách sạn",
+            "totalCount": 13.0,
+            "codeList": "PDC,BCV,DAH,VTG,DCD,NPH,DLD,HOT,VNG,SGH,GTT,VIR,DXL"
+        },
+        {
+            "industryCode": "5755",
+            "industryLevel": "4",
+            "higherLevelCode": "5750",
+            "englishName": "Recreational Services",
+            "vietnameseName": "Dịch vụ vui chơi giải trí",
+            "totalCount": 5.0,
+            "codeList": "DSN,RGC,HES,KLF,TCT"
+        },
+        {
+            "industryCode": "5757",
+            "industryLevel": "4",
+            "higherLevelCode": "5750",
+            "englishName": "Restaurants & Bars",
+            "vietnameseName": "Nhà hàng & quầy bar",
+            "totalCount": 4.0,
+            "codeList": "DLC,ATS,NCS,MTC"
+        },
+        {
+            "industryCode": "5759",
+            "industryLevel": "4",
+            "higherLevelCode": "5750",
+            "englishName": "Travel & Tourism",
+            "vietnameseName": "Du lịch",
+            "totalCount": 20.0,
+            "codeList": "VNS,VTR,HGT,TSD,BSG,BLN,HNB,VTD,TSJ,CXH,BXT,DSP,TTT,BTV,FDT,STT,DNT,MNC,WCS,TTR"
+        },
+        {
+            "industryCode": "6535",
+            "industryLevel": "4",
+            "higherLevelCode": "6530",
+            "englishName": "Fixed Line Telecommunications",
+            "vietnameseName": "Dịch vụ viễn thông cố định",
+            "totalCount": 6.0,
+            "codeList": "VTC,VGI,CTR,TEL,FOX,PTO"
+        },
+        {
+            "industryCode": "6575",
+            "industryLevel": "4",
+            "higherLevelCode": "6570",
+            "englishName": "Mobile Telecommunications",
+            "vietnameseName": "Dịch vụ viễn thông di động",
+            "totalCount": 4.0,
+            "codeList": "NIS,TTN,MFS,ABC"
+        },
+        {
+            "industryCode": "7535",
+            "industryLevel": "4",
+            "higherLevelCode": "7530",
+            "englishName": "Electricity",
+            "vietnameseName": "Điện",
+            "totalCount": 57.0,
+            "codeList": "NT2,GE2,DTE,PBK,GSM,TTA,HNA,EBA,E12,SBH,PGV,NED,DNH,GEG,CHS,VCP,TDB,QTP,EIC,DTK,SP2,EAD,BSA,POW,DNA,SBM,BHA,HND,ISH,HPD,NTH,TTE,AVC,SVH,HLE,SCH,NCP,VPD,PIC,DRL,QPH,BTP,NBP,TMP,SEB,TBC,PPC,DTC,HJS,RHC,SJD,VSH,KHP,NLC,SHP,CHP,SBA"
+        },
+        {
+            "industryCode": "7537",
+            "industryLevel": "4",
+            "higherLevelCode": "7530",
+            "englishName": "Alternative Electricity",
+            "vietnameseName": "Điện tái tạo",
+            "totalCount": 1.0,
+            "codeList": "S4A"
+        },
+        {
+            "industryCode": "7573",
+            "industryLevel": "4",
+            "higherLevelCode": "7570",
+            "englishName": "Gas Distribution",
+            "vietnameseName": "Gas",
+            "totalCount": 15.0,
+            "codeList": "PVG,PDT,PEG,PMG,GSP,CNG,DVC,PGD,ASP,VMG,PGS,MTG,PGC,GAS,HFC"
+        },
+        {
+            "industryCode": "7575",
+            "industryLevel": "4",
+            "higherLevelCode": "7570",
+            "englishName": "Multiutilities",
+            "vietnameseName": "Dịch vụ tiện ích tổng hợp",
+            "totalCount": 5.0,
+            "codeList": "THS,REE,TAP,ABR,SGI"
+        },
+        {
+            "industryCode": "7577",
+            "industryLevel": "4",
+            "higherLevelCode": "7570",
+            "englishName": "Water",
+            "vietnameseName": "Nước",
+            "totalCount": 65.0,
+            "codeList": "GDW,BNW,BLW,TVW,PWS,NVP,BDW,HAW,NDW,TOW,DWS,HWS,NQN,BWS,BGW,HDW,THN,TNW,NLS,NBT,THW,NQB,NSL,PMW,CMW,DNW,LDW,VPW,VAV,DNN,DBW,CTW,TDM,LAW,DWC,STW,LWS,BPW,NAW,HPW,TAW,TQW,HBW,DVW,GLW,WTN,BWE,VLW,KHW,NS3,QNW,NQT,HTW,LCW,NS2,VCW,NTW,LKW,PJS,NNT,CLW,TDW,BTW,NBW,BWA"
+        },
+        {
+            "industryCode": "8355",
+            "industryLevel": "4",
+            "higherLevelCode": "8350",
+            "englishName": "Banks",
+            "vietnameseName": "Ngân hàng",
+            "totalCount": 28.0,
+            "codeList": "STB,TIN,LPB,BVB,MSB,VPB,TPB,MBB,BID,SGB,VCB,VAB,VIB,OCB,HDB,NVB,NAB,KLB,TCB,BAB,ABB,SSB,VBB,EIB,PGB,SHB,CTG,ACB"
+        },
+        {
+            "industryCode": "8532",
+            "industryLevel": "4",
+            "higherLevelCode": "8530",
+            "englishName": "Full Line Insurance",
+            "vietnameseName": "Bảo hiểm đa ngành",
+            "totalCount": 8.0,
+            "codeList": "BVH,PRE,AIC,PGI,PVI,BIC,BMI,ABI"
+        },
+        {
+            "industryCode": "8536",
+            "industryLevel": "4",
+            "higherLevelCode": "8530",
+            "englishName": "Property & Casualty Insurance",
+            "vietnameseName": "Bảo hiểm tài sản & thương vong",
+            "totalCount": 3.0,
+            "codeList": "PTI,BLI,MIG"
+        },
+        {
+            "industryCode": "8538",
+            "industryLevel": "4",
+            "higherLevelCode": "8530",
+            "englishName": "Reinsurance",
+            "vietnameseName": "Tái bảo hiểm",
+            "totalCount": 1.0,
+            "codeList": "VNR"
+        },
+        {
+            "industryCode": "8633",
+            "industryLevel": "4",
+            "higherLevelCode": "8630",
+            "englishName": "Real Estate Holding & Development",
+            "vietnameseName": "Đầu tư và phát triển bất động sản",
+            "totalCount": 112.0,
+            "codeList": "HDG,MGR,E29,KOS,VRE,TCH,TID,BCM,HPI,EIN,HD2,LDG,AGG,HD3,PWA,HPX,VPI,SNZ,HTT,BAX,PNT,NVL,HU6,HD8,HIZ,PLA,HRB,LEC,BDP,HBI,LAI,HD6,SIP,FIR,IDC,DTI,SGR,VHM,MH3,NTC,BII,SII,NHN,FLC,FIT,NLG,CEO,HAR,VNN,CCL,DIH,CIG,NDN,D11,SDI,HPR,C21,FDC,ASM,DXG,TIX,CSC,HDC,ITC,SDU,LGL,VPH,VNI,D2D,DIG,BCI,NBB,HAG,SZL,VIC,RCL,NTL,KBC,KHA,CII,SJS,TDH,ITA,PXL,PFL,SCR,KAC,HQC,TIG,OCH,IDJ,QCG,VRC,DRH,STL,CLG,PDR,PFV,DTA,PVR,OGC,VCR,NTB,DLR,IDV,TNT,NVT,PVL,PPI,NVN,LHG,KDH"
+        },
+        {
+            "industryCode": "8637",
+            "industryLevel": "4",
+            "higherLevelCode": "8630",
+            "englishName": "Real Estate Services",
+            "vietnameseName": "Dịch vụ bất động sản",
+            "totalCount": 20.0,
+            "codeList": "UNI,BIG,TN1,FTI,HGR,HGC,SZB,ILB,NRC,CER,SID,CRE,SZG,KSF,GH3,TBH,KHG,DXS,BVL,DCH"
+        },
+        {
+            "industryCode": "8674",
+            "industryLevel": "4",
+            "higherLevelCode": "8670",
+            "englishName": "Diversified REITs ",
+            "vietnameseName": "Quỹ tín thác bất động sản đa dạng",
+            "totalCount": 1.0,
+            "codeList": "TIP"
+        },
+        {
+            "industryCode": "8771",
+            "industryLevel": "4",
+            "higherLevelCode": "8770",
+            "englishName": "Asset Managers",
+            "vietnameseName": "Quản lý tài sản",
+            "totalCount": 1.0,
+            "codeList": "TVC"
+        },
+        {
+            "industryCode": "8773",
+            "industryLevel": "4",
+            "higherLevelCode": "8770",
+            "englishName": "Consumer Finance",
+            "vietnameseName": "Tài chính cá nhân",
+            "totalCount": 1.0,
+            "codeList": "EVF"
+        },
+        {
+            "industryCode": "8775",
+            "industryLevel": "4",
+            "higherLevelCode": "8770",
+            "englishName": "Specialty Finance",
+            "vietnameseName": "Tài chính chuyên biệt",
+            "totalCount": 6.0,
+            "codeList": "PIV,IPA,IBC,SDF,API,PV2"
+        },
+        {
+            "industryCode": "8777",
+            "industryLevel": "4",
+            "higherLevelCode": "8770",
+            "englishName": "Investment Services",
+            "vietnameseName": "Dịch vụ đầu tư",
+            "totalCount": 42.0,
+            "codeList": "HCM,VUA,AAS,ART,TVS,CSI,HFT,EVS,HAC,FTS,TCI,VCI,MBS,BMS,DSC,TVB,VFS,BSI,IVS,VIX,AGR,VIG,CTS,VDS,TAS,APS,CLS,PVF,KLS,BVS,SSI,GBS,PSI,APG,WSS,SHS,HBS,ORS,SBS,AVS,PHS,VND"
+        },
+        {
+            "industryCode": "8985",
+            "industryLevel": "4",
+            "higherLevelCode": "8980",
+            "englishName": "Equity Investment Instruments",
+            "vietnameseName": "Công cụ đầu tư cổ phần",
+            "totalCount": 11.0,
+            "codeList": "FUCVREIT,FUEVFVND,FUESSVFL,FUESSV50,E1SSHN30,E1VFVN30,FUCTVGF3,FUEIP100,FUEVN100,FUCTVGF2,FUCTVGF1"
+        },
+        {
+            "industryCode": "9533",
+            "industryLevel": "4",
+            "higherLevelCode": "9530",
+            "englishName": "Computer Services",
+            "vietnameseName": "Dịch vụ máy tính",
+            "totalCount": 5.0,
+            "codeList": "CMG,PAI,SBD,FPT,CMT"
+        },
+        {
+            "industryCode": "9537",
+            "industryLevel": "4",
+            "higherLevelCode": "9530",
+            "englishName": "Software",
+            "vietnameseName": "Phần mềm",
+            "totalCount": 7.0,
+            "codeList": "ITD,ONW,PIA,SGT,SRA,ELC,VLA"
+        },
+        {
+            "industryCode": "9572",
+            "industryLevel": "4",
+            "higherLevelCode": "9570",
+            "englishName": "Computer Hardware",
+            "vietnameseName": "Phần cứng",
+            "totalCount": 2.0,
+            "codeList": "HPT,TAG"
+        },
+        {
+            "industryCode": "9574",
+            "industryLevel": "4",
+            "higherLevelCode": "9570",
+            "englishName": "Electronic Office Equipmen",
+            "vietnameseName": "Thiết bị điện tử văn phòng",
+            "totalCount": 2.0,
+            "codeList": "ST8,BEL"
+        },
+        {
+            "industryCode": "9578",
+            "industryLevel": "4",
+            "higherLevelCode": "9570",
+            "englishName": "Telecommunications Equipmen",
+            "vietnameseName": "Thiết bị viễn thông",
+            "totalCount": 23.0,
+            "codeList": "ONE,VTK,VTE,ICT,PMJ,VTH,PSD,VIE,VAT,KST,VHG,TGP,HIG,TST,TLC,POT,TYA,LTC,SAM,PMT,SMT,CKV,NHW"
+        }
+    ],
+    "currentPage": 1,
+    "size": 9999,
+    "totalElements": 158,
+    "totalPages": 1
+}
