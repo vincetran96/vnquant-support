@@ -49,7 +49,7 @@ PAYLOAD_SAFE_CHARS = ":," # Not to encode these in query param
 def get_ind_class(
         code_list: List[str]=[],
         industry_codes: List[str]=[],
-        industry_levels: List[int]=[],
+        industry_levels: List[str]=[],
         higher_level_codes: List[str]=[],
         english_name: str="",
         vietnamese_name: str="",
@@ -60,7 +60,7 @@ def get_ind_class(
     :params:
         @code_list: list of str - tickers
         @industry_codes: list of str - industry codes
-        @industry_levels: list of int - industry levels (from 1 to 3)
+        @industry_levels: list of str - industry levels
         @higher_level_codes: list of str - higher industry level's codes
         @english_name: str - part of the industry's English name to query for
         @vietnamese_name: str - part of the industry's Vietnamese name to query for
@@ -71,10 +71,10 @@ def get_ind_class(
     # Construct a single string containing all keys for the 'q' parameter
     payload = deepcopy(BASE_PAYLOAD)
     payload_q_keys = deepcopy(PAYLOAD_Q_KEYS)
-    payload_q_keys['codeList'] = ",".join([str(ic) for ic in code_list])
-    payload_q_keys['industryCode'] = ",".join([str(ic) for ic in industry_codes])
-    payload_q_keys['industryLevel'] = ",".join([str(ic) for ic in industry_levels])
-    payload_q_keys['higherLevelCode'] = ",".join([str(ic) for ic in higher_level_codes])
+    payload_q_keys['codeList'] = ",".join([code for code in code_list])
+    payload_q_keys['industryCode'] = ",".join([ic for ic in industry_codes])
+    payload_q_keys['industryLevel'] = ",".join([il for il in industry_levels])
+    payload_q_keys['higherLevelCode'] = ",".join([hlc for hlc in higher_level_codes])
     payload_q_keys['englishName'] = english_name
     payload_q_keys['englishName'] = vietnamese_name
     payload_q_str = PAYLOAD_Q_JOIN_CHAR.join(
@@ -99,9 +99,9 @@ def get_ind_class(
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     logging.info(get_ind_class(
-        industry_codes=[8775, 8777, 8985]
+        industry_codes=["8775", "8777", "8985"]
     ))
     logging.info(get_ind_class(
-        code_list=['ASM', 'AAA']
+        code_list=["ASM", "AAA"]
     ))
     logging.info(get_ind_class())
