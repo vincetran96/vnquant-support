@@ -21,8 +21,9 @@ import random
 import httpx
 import logging
 import urllib.parse
+import pandas
 from copy import deepcopy
-from typing import List
+from typing import List, Tuple
 from common.configs import USER_AGENTS
 
 
@@ -54,7 +55,7 @@ def get_ind_class(
         english_name: str="",
         vietnamese_name: str="",
         result_size: int=MAX_QUERY_SIZE
-    ) -> dict:
+    ) -> Tuple[pandas.DataFrame, dict]:
     '''Gets industries and their available tickers
 
     :params:
@@ -65,6 +66,10 @@ def get_ind_class(
         @english_name: str - part of the industry's English name to query for
         @vietnamese_name: str - part of the industry's Vietnamese name to query for
         @result_size: int - the number of industry to include on 1 result page
+
+    :returns:
+        - DataFrame: pandas DataFrame of industry classification
+        - Metadata: metadata dictionary about the request
     '''
     
     # Prepare payload
@@ -83,6 +88,7 @@ def get_ind_class(
     payload['q'] = payload_q_str
     payload['size'] = result_size
     
+    # Parse the payload dict using the payload safe chars
     payload_str = urllib.parse.urlencode(payload, safe=PAYLOAD_SAFE_CHARS)    
     headers = {
         'content-type': CONTENT_TYPE,
@@ -93,7 +99,22 @@ def get_ind_class(
         params=payload_str,
         headers=headers
     )
-    return resp.json()
+
+    # Process the JSON response
+    # Then put industry data from it into a DataFrame
+    # Metadata is everything else other than industry data
+    resp_json = resp.json()
+    ind_df = pandas.DataFrame(resp_json['data'])
+    metadata_dict = {key: value for key, value in resp_json.items() if key != 'data'}
+
+    return ind_df, metadata_dict
+
+
+def get_full_ind_class():
+    '''Gets full industry classification on VNDirect
+    '''
+
+    return get_ind_class()
 
 
 if __name__ == "__main__":
