@@ -23,7 +23,8 @@ import logging
 import urllib.parse
 import pandas
 from copy import deepcopy
-from typing import List, Tuple
+from typing import List, Tuple, Literal
+import vnquant.DataLoader as vnd_loader
 from common.configs import USER_AGENTS
 
 
@@ -74,6 +75,12 @@ def get_ind_class(
     
     # Prepare payload
     # Construct a single string containing all keys for the 'q' parameter
+
+    # Parse the payload dict using the payload safe chars
+
+    # Process the JSON response
+    # Then put industry data from it into a DataFrame
+    # Metadata is everything else other than industry data
     payload = deepcopy(BASE_PAYLOAD)
     payload_q_keys = deepcopy(PAYLOAD_Q_KEYS)
     payload_q_keys['industryLevel'] = DEFAULT_INDUSTRY_LEVEL
@@ -88,7 +95,6 @@ def get_ind_class(
     payload['q'] = payload_q_str
     payload['size'] = result_size
     
-    # Parse the payload dict using the payload safe chars
     payload_str = urllib.parse.urlencode(payload, safe=PAYLOAD_SAFE_CHARS)    
     headers = {
         'content-type': CONTENT_TYPE,
@@ -100,9 +106,6 @@ def get_ind_class(
         headers=headers
     )
 
-    # Process the JSON response
-    # Then put industry data from it into a DataFrame
-    # Metadata is everything else other than industry data
     resp_json = resp.json()
     ind_df = pandas.DataFrame(resp_json['data'])
     metadata_dict = {key: value for key, value in resp_json.items() if key != 'data'}
@@ -116,13 +119,54 @@ def get_full_ind_class():
 
     return get_ind_class()
 
+def get_price_from_ind_df(
+        ind_df: pandas.DataFrame,
+        start: str,
+        end: str,
+        minimal: bool=True,
+        data_source: Literal["vnd", "cafe"]="vnd"
+    ) -> pandas.DataFrame:
+    '''Gets stock price data from
+    a industry classification DataFrame
+
+    :params:
+        @ind_df: a pandas DataFrame returned from the get_ind_class function;
+            it must at least have a `codeList` column where
+            its value is a string of stock codes (e.g., "AAA,HCM")
+        @start: str - start date of the period to get price for;
+            must be in format %Y-%m-%d as per strftime
+        @end: str - end date of the period to get price for;
+            must be in format %Y-%m-%d as per strftime
+        @minimal: bool - whether to get minimal price information;
+            if False, get more than
+            just high, low, open, close, adjust price, volume
+        @data_source: str - source to download stock price;
+            options are vnd (for VNDirect) or cafe (for CafeF)
+    '''
+
+    # Get a list of strings of stock codes from the 
+    #   `codeList` column of the provided DataFrame
+    # Then pass that list into the DataLoader object
+    code_list = ",".join(list(ind_df['codeList'])).split(",")
+    loader = vnd_loader.DataLoader(
+        symbols=code_list,
+        start=start,
+        end=end,
+        minimal=minimal,
+        data_source=data_source
+    )
+    price_df = loader.download()
+
+    return price_df
+
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    logging.info(get_ind_class(
-        industry_codes=["8775", "8777", "8985"]
-    ))
-    logging.info(get_ind_class(
-        code_list=["ASM", "AAA"]
-    ))
-    logging.info(get_ind_class())
+
+    start = '2020-02-02'
+    end = '2020-04-02'
+    ind_df, meta = get_ind_class(code_list=["ASM", "AAA"])
+    price_df = get_price_from_ind_df(ind_df, start, end)
+
+    logging.info(ind_df)
+    logging.info(price_df)
