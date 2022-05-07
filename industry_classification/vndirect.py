@@ -45,11 +45,11 @@ BASE_PAYLOAD = {
     'size': ""
 }
 PAYLOAD_SAFE_CHARS = ":," # Not to encode these in query param
+DEFAULT_INDUSTRY_LEVEL = 1 # Default industry level
 
 def get_ind_class(
         code_list: List[str]=[],
         industry_codes: List[str]=[],
-        industry_levels: List[str]=[],
         higher_level_codes: List[str]=[],
         english_name: str="",
         vietnamese_name: str="",
@@ -71,9 +71,9 @@ def get_ind_class(
     # Construct a single string containing all keys for the 'q' parameter
     payload = deepcopy(BASE_PAYLOAD)
     payload_q_keys = deepcopy(PAYLOAD_Q_KEYS)
+    payload_q_keys['industryLevel'] = DEFAULT_INDUSTRY_LEVEL
     payload_q_keys['codeList'] = ",".join([code for code in code_list])
     payload_q_keys['industryCode'] = ",".join([ic for ic in industry_codes])
-    payload_q_keys['industryLevel'] = ",".join([il for il in industry_levels])
     payload_q_keys['higherLevelCode'] = ",".join([hlc for hlc in higher_level_codes])
     payload_q_keys['englishName'] = english_name
     payload_q_keys['englishName'] = vietnamese_name
